@@ -11,5 +11,9 @@ Date:
 + Learn about:
 
 	- Object-Oriented Analysis & Design
-	- Programming
-	- Programming
+	
+	- Program: is collection code and data.
+		=> code: is instruction.
+		=> data: are variables
+
+	- Programming: is a model of program
