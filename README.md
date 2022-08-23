@@ -1,7 +1,7 @@
-OOAD & Prog
+Web Application Dev.
 
-Mr. Svoettty Bunna => LAB
+Mr. Thou Chamroem => LAB
 
 Date: 
-	- Tuesday ( 7:30, 9: 00 )
-	- Friday (lab303) ( 9:00, 10: 30 )
+	- Wednesday (Lab: 303) ( 7:30, 9: 00 )
+	- Friday  ( 7:30, 9:00 )
