@@ -17,3 +17,11 @@ Date:
 		=> data: are variables
 
 	- Programming: is a model of program
+
+	+ Analysis: find possible problem that will occure.
+
+	+ Problem: is what we have to do.
+
+	+ Design: the phase that find the good and latest solution to solve any problem.
+
+	+ Object-oriented: 
