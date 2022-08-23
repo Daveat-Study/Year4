@@ -1,7 +1,7 @@
-OOAD & Prog
+Linux System Admin.
 
-Mr. Svoettty Bunna => LAB
+Dr. Ouk Khean => LAB
 
 Date: 
-	- Tuesday ( 7:30, 9: 00 )
-	- Friday (lab303) ( 9:00, 10: 30 )
+	- Tuesday ( 9:00, 10: 30 )
+	- Wednesday (lab303) ( 9:00, 10: 30 )
