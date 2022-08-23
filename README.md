@@ -1,7 +1,7 @@
-Web Application Dev.
+M.I.S (Management Information System).
 
-Mr. Thou Chamroem => LAB
+Ms. Chea Daly
 
 Date: 
-	- Wednesday (Lab: 303) ( 7:30, 9: 00 )
-	- Friday  ( 7:30, 9:00 )
+	- Monday ( 7:30, 9: 00 )
+	- Thursday  ( 9:00, 10:30 )
