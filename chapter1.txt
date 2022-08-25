@@ -1,0 +1,74 @@
+25/Aug/22, 9:15-10:45am
+
+1. An introduction to information Systems.
+
+	+ Data and information:
+
+	+ Types of data:
+
+	+ Data -> information
+
+	+ Knowledge:
+
+	+ The value of information
+
+		- if an organizatioin's information is not accurate or complete
+	
+	+ Characteristics of Quality information:
+
+		- Accessible 
+		- accurate
+		- Complete
+		- Economical 
+		- Flexible
+		- Relevant
+		- Reliable
+		- Secure
+		- Simple 
+		- Timely
+		- Verifiable
+
+	+ System Concepts:
+
+		+ System: set of elements or components that interact to accomplish a goal.
+
+		+ Components of a system:
+			- Inputs.
+			- Processing.
+			- Outputs.
+			- Feedback.
+
+	+ System Performance and Standards:
+
+		+ Effeciency:
+		+ Effetiveness:
+		+ System Performance Standard:
+
+	+ What is information System?
+
+		+ Information System (IS): 
+			- a set of interrelated componentsthat collect (input), process, store, and disseminate
+		+ Businesses: use information to increase revenue.
+
+		+ Feedback: is critical to the successful operation of the organization.
+
+	+ Manual and Computerized Information Systems:
+		+ Manual information System: 
+			- Investment analyst manually draw charts.
+		+ Computerized information systems:
+			- Follow stock indexes and markets and suggest when large blocks of stocks should be purchased or sold.
+		+ Computer-Based Information Systems:
+			- a computer-based information system (CBIS) is a single set of hardware, software, database, networks, people, and procedures.
+
+	+ Computer-Based Information System:
+		+ networks
+		+ People 
+		+ Procedures:
+	
+	+ Hardware and Mobile Devices:
+
+	+ Software and Mobile Application:
+
+	+ Database System:
+		+ Database: is organized collectioin of data stored and accessded electronically from a computer systems.
+		+ A data, warehouse: is a database that stores large amount of historical data in a form that readily supports analysis and manangement decision making.
