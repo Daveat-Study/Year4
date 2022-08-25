@@ -1,3 +1,45 @@
+25/Aug/22, 7:30-9am
+
+1.2 Concept:
+
+	+ What is Software?
+		+ Software is a set of instructions, written by one or more programming language to perform automatically some functions in solving any problem. 
+			- Instuctions (computer programs) that when executed provide desired function and performance.
+			- Data structure that enable the programs to adequately manipulate information.
+			- Documents that describe the operation and use of the programs.
+
+1.1 The history of S.E
+
+	+ Some of reasons that make software crisis in first software development in 19th century:
+		1. Software developers used multiple programming language.
+		2. Software developers used multiple variabtions of standard programming language
+		3. Most of the requirement were complex with regard to the existing capabilitires.
+		4. Users, who had little of no experience of devloping or even using software, formulated requirement.
+		5. Software developers poorly mapped requirements to the actual product.
+		5. Software developed had low interoperability.
+		6. Software maintenance was costly.
+		7. Hardware deeloped at a faster rate than software(better hardware requires better software to operate it)
+		
+	+ In 19th centery some country that define SW (SW Crisis) is 70% in plan that relate Information Technology.
+
+	+ NATO made conference about science in Munich (1968) city to solve those of crisis.  
+
+	+ After crisis: software problem they start birth Software Engineering to solve (SE).
+
+	+ Why SE? - because to solve and prevent problem that can occure in software in the future.
+		- Build it correct the first time.
+		- Reduce development cost.
+		- Reduce development time.
+		- Repeat previous successes.
+		- Learn from previous failures.
+
+	+ Goal of SE:
+		1. To improve the quality of the software products.
+		2. To increase the productivity (ផលិតភាព: ភាពដែលអាចផលិតបាន).
+		3. To give job satisfaction the the software engineers.
+
+------------------------------------------------------------------------------------
+
 22/Aug/22
 
 + First day:
