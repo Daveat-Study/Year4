@@ -1,0 +1,3 @@
+Semester I: 
+    - OOP (C#)
+    - VML 

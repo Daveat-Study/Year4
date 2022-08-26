@@ -1,0 +1,22 @@
+Date: 26/Aug/22 - Time: 9:15:10:45am 
+
+Chapter 1: OOP (Object Oriented Programming)
+
+    - To have object with need to create class.
+
+    - Class is source code.
+
+    - ដើម្បីបង្កើតObjectត្រូវដឹងពីរបស់សម្គាល់ (field or properties, member variable)
+
+    + In Programming:
+        - Data
+        - Function
+
+    + In OOP:
+        - Data 
+        - Properties 
+        - Method 
+        - Event
+
+    Field ជា member variable របស់ class
+    - មុខងារសំរាប់ store data
