@@ -1,0 +1,41 @@
+Date: 26/Aug/22 - Time: 7:30:9am 
+
+Chapter 1: Introduction to Internet.
+
+    + Internet, Intranet, Extranet:
+
+        + Internet: is a global computer of network.
+
+        + Intranet: is a private internet of organization, institute or company. only people that relate their company or organization can use their internet.
+
+        + Extranet: is a private internet of organization, institute or company. But other people( Customer, cooperate peoples ) that allow can use their internet.
+
+    + Addressing Schemes:
+
+        + Address: is address on internet that make people easy to find destination to share internet.
+
+        + Address have two: 
+            - Domain:
+                - Ex: google.com
+            - Ip address
+                - Ex: 142.251.45.110
+            - Email address: 
+
+    + Web basics:
+
+        - Browser: is a application software for access the internet online and offline.
+
+        + Search Engine: is a software application that allow us to search something by keyword. 
+            - Google 
+            - Microsoft Bing.
+            - Yahoo.
+            - DuckDuckGo
+            - Ask.com
+
+        - Website: is a folder that contain information that we want to upload to internet. (Manage)
+
+        - Webpage: is a file that contain information for upload to the internet. (Container)
+
+    + Communication Protocols and Web Address
+
+    + WWW architecture
