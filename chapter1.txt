@@ -39,12 +39,15 @@ Continue
 
 			+ How to measure correctness? 
 
-				=> Formula: Value of Defects/KLOC (K=Kilo, LOC= Line Of Code)
+				=> Formula: Value of Defects/KLOC
 
 					Defects | Error
 
+				- KLOC  (K=Kilo, LOC= Line Of Code)
 				- Error: problem occure before using
 				- Defect (In Software Engineering Called): problem occure after using
+
+	+ To Ask teacher how many defect that count as much?
 
 -----------------------------------------
 
