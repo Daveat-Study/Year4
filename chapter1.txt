@@ -1,3 +1,63 @@
+29/Aug/22, 7:30-9:00am
+
+Continue:
+1. An introduction to information Systems.
+
+	+ Database System:
+
+		+ Big Data:
+			- Volume
+			- Data fast increase
+	
+	+ Business Information System
+		- Accounting and finance.
+		- Customer service
+		- Human resource
+		- Research and development
+		- Sales and marketing:
+			- for advertisement
+			- focus on phone number
+
+		+ also used in nearly every industry such as:
+			- Argriculture
+			- Bank
+			- Health care
+			- Mining
+			- Professional services
+			- Retail
+	
+	+ Electronic Commerce (E-commerce): 
+
+		+ Business-to-Business (B2B):
+			- a situation where once Business makes a commerical transaction with another.
+		+ Business-to-consumer (B2C):
+			- refers to the process of selling products and service directly between Business and consumer(end-user).
+		+ consumer-to-consumer (C2C):
+			- refers to the process of selling products and service between private individuals.
+
+	+ M-commerce: is the buying and selling ofr goods and service using mobile devices such as smartphone.
+		- E-Commerce is a constantly growing.
+		- M-Commerce is growing at an even fast rate.
+	
+	+ Electronic Business:
+
+		- E-Business is the electronic connection of Business operation to Customer, suppliers, and other partners.
+		- E-Business is not just buying and seeling goods and services.
+		- E-Business goes beyond e-commerce.
+
+	+ Transaction Processing Systems:
+		- Transaction: any Business-related exchange like payment...
+		+ Transaction processing system (TPS):
+			- automates routine and repetitive tasks that critical operation
+			- Primary purpose to perform transaction and collect data.
+		- One of the first business systems: Payroll system.
+		+ Other high-volume such as 
+			- order processing, 
+			- customer billing, 
+			- inventory control.
+
+-------------------------------------------------------
+
 25/Aug/22, 9:15-10:45am
 
 1. An introduction to information Systems.
