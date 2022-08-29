@@ -1,3 +1,53 @@
+29/Aug/22, 9:15-10:45am
+
+Continue
+1.2 Concept:
+
+	b). what is Software Engineering: 
+		is establishment and use of sound engineering principles in order to obtain economically software that is reliable and works feeiciently on real.
+		the applicatoin of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software, that is , the application of engineeringto software.
+		the study of approaches as in IEEE
+
+		- Engineering is the systematic application of scientic knowledge in creating and building cost-effective solution to practical problems in the service of manykind.
+
+		+ Any Step:
+			- Problem identification
+			- Anylysis of the problem.
+			- A search for possible alternative solution
+			- Evaluation and then choice of the most appropriate solution.
+			- Design and Implementation of the solution.
+
+		- Solving customer's problem
+		- systematic development and evolution
+		- Large, high-quality SW system.
+		- Cost, time, and constraints
+
+	c) SW quality (Software quality):
+
+		+ Customer: 
+			- solves problem at an acceptable cost in terms of money paid and resources used.
+		+ User: 
+			- easy to lear, efficient to use. helps get work done.
+		+ Developer:
+			- easy to design, maintenance, and reuse its
+		+ development manager:
+			- sells more and pleases customer while costing fees to develop and maintain.	
+
+		+ Attributes of SW quality:
+
+			- correctness(correction): the degree to which a program operates according to specification.
+
+			+ How to measure correctness? 
+
+				=> Formula: Value of Defects/KLOC (K=Kilo, LOC= Line Of Code)
+
+					Defects | Error
+
+				- Error: problem occure before using
+				- Defect (In Software Engineering Called): problem occure after using
+
+-----------------------------------------
+
 25/Aug/22, 7:30-9am
 
 1.2 Concept:
