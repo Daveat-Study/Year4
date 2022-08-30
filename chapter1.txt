@@ -1,3 +1,67 @@
+Date: 30/Aug/22 - Time: 7:30-9:00am 
+
+Continue:
+Chapter 1: OOP (Object Oriented Programming)
+
+    1). Clss & Object:
+        - class is source code that we can define data(field), property, method, event inside it follow object that we want.
+
+            Ex: class ClassName {
+                -----------
+            }
+
+        - Object is things that create from Class:
+
+            Ex: ClassType Object = new classType();
+
+    2). Class members:
+
+        i). Field:
+            + Components of class:
+
+                - Data (Field):
+                - Properties:
+                - Method:
+                - Event: 
+
+            + Variable have two:
+                - Scalar variable is a variable or memory location that can store only one variable.
+                - Array is a variable or memory location that can store multiple value.
+
+            + Value Type & Referene Type:
+                - Value Type: store value directly inside it own location memory.
+                - Referene Type: store only address that refer to value. Doesn't store its value directly.
+
+                    Ex: y|address| -----> | ABCD |
+
+        ii). property: is a block code that we can write code to access( Read/Write ) to private data.
+
+            Ex: public returnType PropertyName {
+
+                get { return Varname; }
+                set { Varname value; }
+            }
+
+            Code:
+
+                class Student {
+
+                    // Field
+                    private int x;
+
+                    // Property
+                    public int Px{
+                        get { return x; }
+                        set { x = value; }
+                    }
+                }
+
+                Student obj = new Student();
+                obj.px = 10;
+                int i = obj.px;
+
+--------------------------------------------
+
 Date: 26/Aug/22 - Time: 9:15:10:45am 
 
 Chapter 1: OOP (Object Oriented Programming)
