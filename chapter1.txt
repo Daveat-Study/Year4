@@ -1,8 +1,62 @@
+Date: 31/Aug/22 - Time: 7:30:9am 
+
+Continue:
+Chapter 1: Introduction to Internet.
+
+    2.4 Communication Protocols and Web Address: is a rule ប្រស្រ័យទាក់ទងគ្នារវាងម៉ាសុីននឹងម៉ាសុីន
+
+    2.5 Http ( Hyper Text Transfer Protocol): 
+        - is an application layer protocol for hypermedia document.
+        - Protocol: សម្រាប់សុំមើលពតមាននៅក្នុង (ឯកសារ or webpage) (that ask permission to see information in document of webpage).
+        - is also default protocol of web.
+
+    2.6 Home page: ជា webpage ដែលត្រូវកំណត់អោយបើកខ្លួនឯងដោយស្វ័យប្រវត្តិ.
+
+    2.7 FTP (File Transfer Protocol): 
+        -ជាProtocolសម្រាប់សុំផ្ទេរឯកសារ។
+
+        - ផ្ទេរឯកសារពីម៉ាសុីនយើងទៅគេគឺ Upload
+        - ផ្ទេរឯកសារពីម៉ាសុីនគេទៅយើងគឺ Download
+
+    2.8 Web hosting: 
+        - ជាការជួលកន្លែងសម្រាប់ដាក់WebsiteនៅលើInternet
+        - ហើយកន្លែងដាក់ត្រូវបានគេហៅឈ្មោះថា: Web server.
+
+    + (WWW, Worl Wide Web, Web): ជាប្រព័ន្ធពតមានដែលអាចអោយយើងប្រើធនធាននៅលើInternet.
+
+    + មាន WWW គឺនៅលើInternet.
+    + មិនមាន WWW គឺនៅលើ Local.
+
+    + Local:
+        ១. នៅលើកំព្យូទ័ររបស់យើង or Personal Computer
+        ២. នៅលើបណ្តាញComputer or Computer network
+
+    + Web address: below link is web address and have 5 section
+        + https://www.w3schools.com/html/default.asp
+            section1: https: is a prococol
+            section2: www: បញ្ចាក់ថាវានៅលើInternet.
+            section3: w3schools.com: ជា domain name
+            section4: html: ជា Folder
+            section5: default.asp: ជា webpage file.
+
+    + WWW architecture: 
+
+        + នៅលើ web គឺមានតែ:
+            - អ្នកអោយគេហៅថាServer
+            - អ្នកទទួលគេហៅថាClient
+
+    + Static webpage and dynamic web page:
+
+        - Static webpage: ជា webpageដែលត្រូវបានដាក់នៅពេលគេ(Web developer)បង្កើតវា.
+        - Dynamic webpage: ជា webpageដែល ពតមានអាចត្រូវបានបន្ថែមពេលគេទស្សនា or បើក.
+    
+----------------------------------------
+
 Date: 26/Aug/22 - Time: 7:30:9am 
 
 Chapter 1: Introduction to Internet.
 
-    + Internet, Intranet, Extranet:
+    1.1 Internet, Intranet, Extranet:
 
         + Internet: is a global computer of network.
 
@@ -10,7 +64,14 @@ Chapter 1: Introduction to Internet.
 
         + Extranet: is a private internet of organization, institute or company. But other people( Customer, cooperate peoples ) that allow can use their internet.
 
-    + Addressing Schemes:
+    1.2 Why network?
+        => Because to share
+            - Hardware: use other harddisk.
+            - Software: use other software like (google.com).
+            - Service: like gmail, etc ( cloud ).
+            - File: link of file.
+
+    1.3 Addressing Schemes:
 
         + Address: is address on internet that make people easy to find destination to share internet.
 
@@ -20,10 +81,13 @@ Chapter 1: Introduction to Internet.
             - Ip address
                 - Ex: 142.251.45.110
             - Email address: 
+                - Ex: condaveat@gmail.com
 
-    + Web basics:
+    1.4 Web basics:
 
-        - Browser: is a application software for access the internet online and offline.
+        + Browser: 
+            - is a application software for access the internet online and offline.
+            - and that a software on our local machine
 
         + Search Engine: is a software application that allow us to search something by keyword. 
             - Google 
@@ -32,10 +96,6 @@ Chapter 1: Introduction to Internet.
             - DuckDuckGo
             - Ask.com
 
-        - Website: is a folder that contain information that we want to upload to internet. (Manage)
+        - Website: is a folder that contain file of information that we want to upload to internet. (Manage)
 
         - Webpage: is a file that contain information for upload to the internet. (Container)
-
-    + Communication Protocols and Web Address
-
-    + WWW architecture
