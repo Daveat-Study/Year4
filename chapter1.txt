@@ -1,3 +1,47 @@
+1/Sep/22, 7:30-9am
+
+1.2 Concept:
+
+Continue
+	c) SW quality (Software quality):
+		+ Attributes of SW quality:
+
+			2). Maintainability: the degree to which a program is amenable to change
+			
+				+ Does it easy to maintenance?
+				- Not Easy
+
+				+ Measure of Maintainability:
+
+					- MTTC(Mean-TIme to Change): រយះពេលជាមធ្យមក្នុងការផ្លាស់ប្តូរ.
+						- MTTC កាន់តែខ្ពស់អត់ល្អ.
+						- MTTC កាន់តែទាបគឺកាន់តែល្អ.
+
+						- ខ្ពស់ទាបជាមួយអ្វី: Compare time develop of Previous version.
+			
+			3). Integrity: 
+				- កំរិតដែលអាចការពារបាននូវការវាយលុកពីខាងក្រៅ
+				- the degree to which a program is impervious to outside attack.
+
+				+ តើការវាយលុកពីខាងក្រៅចូល Software Engineering តាមរយះអ្វីខ្លះ?
+					- Virus
+					- Hacker: ចោរ IT.
+			
+			4). Usability: the degree to which a program is easy to use.
+
+			5). Efficiency(សន្សំសំចៃ): the degree to which a program uses less CPU-time, memory, disk space, network bandwidth and other resources.
+
+			6). Reliability (កម្រិតជឿជាក់): the degree to which a program has a fewer failures.
+
+			7). Reusability: the degree to which a SW component is reusable if it can be used in several different system with little or no modification.
+
+			+ Conflict:
+				- Usability:
+				- Efficiency:
+				=> Easy to use but high space will effect to Efficiency
+				=> Less space or low spec but not easy for Usability.
+------------------------------------------
+
 29/Aug/22, 9:15-10:45am
 
 Continue
@@ -46,8 +90,6 @@ Continue
 				- KLOC  (K=Kilo, LOC= Line Of Code)
 				- Error: problem occure before using
 				- Defect (In Software Engineering Called): problem occure after using
-
-	+ To Ask teacher how many defect that count as much?
 
 -----------------------------------------
 
