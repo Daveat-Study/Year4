@@ -6,7 +6,7 @@ Chapter 1: Introduction to Internet.
     2.4 Communication Protocols and Web Address: is a rule ប្រស្រ័យទាក់ទងគ្នារវាងម៉ាសុីននឹងម៉ាសុីន
 
     2.5 Http ( Hyper Text Transfer Protocol): 
-        - is an application layer protocol for hypermedia document.
+        - ជាការកំណត់Ruleសម្រាប់Transferring files -- ដូចជា text, images, sound, video,  multimedia filesនៅលើ Web.
         - Protocol: សម្រាប់សុំមើលពតមាននៅក្នុង (ឯកសារ or webpage) (that ask permission to see information in document of webpage).
         - is also default protocol of web.
 
@@ -22,16 +22,16 @@ Chapter 1: Introduction to Internet.
         - ជាការជួលកន្លែងសម្រាប់ដាក់WebsiteនៅលើInternet
         - ហើយកន្លែងដាក់ត្រូវបានគេហៅឈ្មោះថា: Web server.
 
-    + (WWW, Worl Wide Web, Web): ជាប្រព័ន្ធពតមានដែលអាចអោយយើងប្រើធនធាននៅលើInternet.
+    2.9 (WWW, Worl Wide Web, Web): ជាប្រព័ន្ធពតមានដែលអាចអោយយើងប្រើធនធាននៅលើInternet.
 
-    + មាន WWW គឺនៅលើInternet.
-    + មិនមាន WWW គឺនៅលើ Local.
+    2.10 មាន WWW គឺនៅលើInternet.
+    2.11 មិនមាន WWW គឺនៅលើ Local.
 
-    + Local:
+    2.12 Local:
         ១. នៅលើកំព្យូទ័ររបស់យើង or Personal Computer
         ២. នៅលើបណ្តាញComputer or Computer network
 
-    + Web address: below link is web address and have 5 section
+    2.13 Web address: below link is web address and have 5 section
         + https://www.w3schools.com/html/default.asp
             section1: https: is a prococol
             section2: www: បញ្ចាក់ថាវានៅលើInternet.
@@ -39,13 +39,13 @@ Chapter 1: Introduction to Internet.
             section4: html: ជា Folder
             section5: default.asp: ជា webpage file.
 
-    + WWW architecture: 
+    2.14 WWW architecture: 
 
         + នៅលើ web គឺមានតែ:
             - អ្នកអោយគេហៅថាServer
             - អ្នកទទួលគេហៅថាClient
 
-    + Static webpage and dynamic web page:
+    2.15 Static webpage and dynamic web page:
 
         - Static webpage: ជា webpageដែលត្រូវបានដាក់នៅពេលគេ(Web developer)បង្កើតវា.
         - Dynamic webpage: ជា webpageដែល ពតមានអាចត្រូវបានបន្ថែមពេលគេទស្សនា or បើក.
