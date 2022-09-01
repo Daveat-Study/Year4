@@ -1,6 +1,18 @@
 29/Aug/22, 7:30-9:00am
 
 Continue:
+1/Aug/22, 9:15-10:45am
+
+	+ Manangement Processing Systems:
+
+		- various -> Transaction Processing -> Database -> Manangement Information System -> Manangement reports
+		                     -> Report, checks, purchase orders, etc.
+
+	+  Why learn about information System
+
+-------------------------------------------------------
+
+Continue:
 1. An introduction to information Systems.
 
 	+ Database System:
