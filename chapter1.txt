@@ -42,6 +42,8 @@ Chapter 1: Introduction to Internet.
         + Page ចែកចេញជាពីរ:
             - head
             - body
+
+            - html តំណាងអោយhtml document ឬ webpage.
                 
 ------------------------------------------------
 
