@@ -5,9 +5,9 @@ Chapter 1: Introduction to Internet.
 
     2.4 Communication Protocols and Web Address: is a rule ប្រស្រ័យទាក់ទងគ្នារវាងម៉ាសុីននឹងម៉ាសុីន
 
-    2.5 Http ( Hyper Text Transfer Protocol): 
+    2.5 Http ( Hyper Text Transfer Protocol): ជាProtocol: សម្រាប់សុំមើលពត៌មាននៅក្នុង (ឯកសារ or webpage) (that ask permission to see information in document of webpage).
+
         - ជាការកំណត់Ruleសម្រាប់Transferring files -- ដូចជា text, images, sound, video,  multimedia filesនៅលើ Web.
-        - Protocol: សម្រាប់សុំមើលពតមាននៅក្នុង (ឯកសារ or webpage) (that ask permission to see information in document of webpage).
         - is also default protocol of web.
 
     2.6 Home page: ជា webpage ដែលត្រូវកំណត់អោយបើកខ្លួនឯងដោយស្វ័យប្រវត្តិ.
@@ -22,7 +22,7 @@ Chapter 1: Introduction to Internet.
         - ជាការជួលកន្លែងសម្រាប់ដាក់WebsiteនៅលើInternet
         - ហើយកន្លែងដាក់ត្រូវបានគេហៅឈ្មោះថា: Web server.
 
-    2.9 (WWW, Worl Wide Web, Web): ជាប្រព័ន្ធពតមានដែលអាចអោយយើងប្រើធនធាននៅលើInternet.
+    2.9 (WWW, Worl Wide Web, Web): ជាប្រព័ន្ធពត៌មានដែលអាចអោយយើងប្រើធនធាននៅលើInternet.
 
     2.10 មាន WWW គឺនៅលើInternet.
     2.11 មិនមាន WWW គឺនៅលើ Local.
@@ -42,8 +42,8 @@ Chapter 1: Introduction to Internet.
     2.14 WWW architecture: 
 
         + នៅលើ web គឺមានតែ:
-            - អ្នកអោយគេហៅថាServer
-            - អ្នកទទួលគេហៅថាClient
+            - អ្នកអោយ គេហៅថាServer
+            - អ្នកទទួល គេហៅថាClient
 
     2.15 Static webpage and dynamic web page:
 
