@@ -1,5 +1,52 @@
 Date: 31/Aug/22 - Time: 7:30:9am 
 
+Contiue
+Chapter 1: Introduction to Internet.
+    
+    + Webpage: ជាឯកសារ html 1 ដែលមានពត៌មាន​សម្រាប់ដាក់នៅលើInternet.
+
+    2. Client Side proccessing:
+
+        + HTML: សម្រាប់សរសេរពត៌មាន (webpage).
+
+        + CSS: ជាភាសារសម្រាប់រចនាពត៎មានដែលយើងដាក់ (webpage).
+
+        + JavaScript: សម្រាប់ធ្វើអោយពត៌មានផ្លាស់ប្តូរឬdynamic.
+
+        + Getstart:
+            - index.html ​គឺជា homepage.
+
+            - Root folder: folder ដែលជាការបង្កើត
+
+            + Step To Write Html:
+
+                Step1. <title>ទំព័រដើម</title>
+                        __1__ __2__ __3__
+
+                    1. ស្លាកបើកឬស្លាកផ្តើម opening or start tag.
+                    2. ខ្លឹមសារ Content.
+                    3. ស្លាកបិទឬស្លាកបញ្ចប់ closing or end tag.
+                    1, 2, និង3 ផ្សំគ្នាទាំងអស់ហៅថា ធាតុ element.
+                
+            + Tag: សម្គាល់ទៅលើសញ្ញា < នឹង >
+
+            + Element (ធាតុ): 
+
+            + Nesting Element: ការសរសេរមេធាតុនឹងកូនធាតុ ឬ ការសរសេរធាតុនៅក្នុងធាតុ.
+
+                Ex: <head>
+                        <title>ទំព័រដើម</title>
+                    </head>
+            + របៀបសរសេរមេធាតុកូនធាតុ: សរសេរកូនធាតុនៅពីក្នុងមេធាតុនៅពីក្រៅ.
+
+        + Page ចែកចេញជាពីរ:
+            - head
+            - body
+                
+------------------------------------------------
+
+Date: 31/Aug/22 - Time: 7:30:9am 
+
 Continue:
 Chapter 1: Introduction to Internet.
 
@@ -50,7 +97,7 @@ Chapter 1: Introduction to Internet.
         - Static webpage: ជា webpageដែលត្រូវបានដាក់នៅពេលគេ(Web developer)បង្កើតវា.
         - Dynamic webpage: ជា webpageដែល ពតមានអាចត្រូវបានបន្ថែមពេលគេទស្សនា or បើក.
     
-----------------------------------------
+------------------------------------------------
 
 Date: 26/Aug/22 - Time: 7:30:9am 
 
