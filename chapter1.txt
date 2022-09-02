@@ -41,16 +41,42 @@ Chapter 1: Introduction to Internet.
             
             3. ធាតុទទេរ (empty element): ដែលមានតែស្លាកបើកឬស្លាកផ្តើមប៉ុណ្ណោះ
 
-                - <hr>
+                - <hr>: horizontal root ជាបន្ទាត់កាត់ទទឺង webpage
 
-        + Page ចែកចេញជាពីរ:
-            - head
-            - body
+                + Page ចែកចេញជាពីរ:
+                    - head
+                    - body
 
-            - <html> តំណាងអោយhtml document ឬ webpage.
-            - <head> តំណាងក្បាលឯកសារhtml ឬ webpage.
-            - <body> តំណាងតួឯកសារhtml ឬ webpage.
-                
+                    - <html> តំណាងអោយhtml document ឬ webpage.
+                    - <head> តំណាងក្បាលឯកសារhtml ឬ webpage.
+                    - <body> តំណាងតួឯកសារhtml ឬ webpage.
+            
+            4. គុណលក្ខណះរបស់ធាតុ Attribute of the element: 
+                - ឈ្មៅះគុណលក្ខណះ = (នាំអោយ) "តម្លៃគុណលក្ខណះ" ឬ 'តម្លៃគុណលក្ខណះ'
+                Ex: <img src = "sdfdsf" alt = 'ក្មួយស្រី'>
+                         _1_ 2 ___3____ _4_ 5 ___6___
+
+                    1. Attribute 1
+                    2. នាំអោយ
+                    3. តម្លៃគុណលក្ខណះ
+                    4. Attribute 3
+                    5. នាំអោយ
+                    6. តម្លៃគុណលក្ខណះ
+
+        Summary;
+        
+            html write in 4 phase:
+            
+            1. Element:
+                opening
+                Content
+                stoping
+            
+            2. Special element
+                element in elemnt
+
+            3. Opening tag 
+
 ------------------------------------------------
 
 Date: 31/Aug/22 - Time: 7:30:9am 
