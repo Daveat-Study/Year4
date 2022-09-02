@@ -1,3 +1,59 @@
+Date: 2/Sep/22 - Time: 9:15-10:45am 
+
+Chapter 1: OOP (Object Oriented Programming)
+
+    Continue:
+    2). Class members:
+        iii). Method (public) ឬ Function ជាblock code.
+        
+            - 
+                public returnType MethodName(){
+                        // code return value;
+                }
+
+                public void MethodName(){
+
+                }
+            
+            + Parameter: 
+                - ជា local variable ដែលប្រកាសនៅក្នុងរង្វង់ក្រចក
+                - ប្រើជាមួយតែ Function ទេ
+
+                - ពេលបង្កើតមិនទាន់មានLocationនៅក្នុងMemoryទេ.
+                - មាន memory location នៅពេលគេហៅវា.
+                - Memory location នឹងត្រូវលុបចោលពេលចប់ Function.
+                - ហើយត្រូវបានគេហៅថា local variable.
+
+            + Argument: a value that is passed between programs, subroutines or functions.
+
+            + Passing by value: បោះតម្លៃCopyរបស់variable.
+
+            + Passing by reference: 
+
+            គេត្រូវការ Parememter នៅពេលដែលយើងត្រូវការយកvalueពីខាងក្រៅមកប្រើ
+            
+            Object:
+                1. មានរបស់សម្គាល់ (Property, Field).
+                1. មានសម្ថភាព (Method).
+            
+            * Method Overloading: ជា method ដែលមានឈ្មោះដូចគ្ណាច្រើនតែខុសចំនួនParameter
+                - ងាយស្រួលក្នុងការអាន
+                - ងាយស្រួលចំណាំ
+                
+            * Contructors: គឺជា special method
+                1. ត្រូវមានឈ្មោះដូច class
+                2. Constructor ត្រូវបាន called ដោយស្វ័យប្រវត្តិនៅពេលបង្កើត object.
+                - ជា method ដែលមិនreturn តម្លៃ.
+
+                + Constructor មាន5:
+                    - Default constructor
+                    - Parameterize Contructors
+                    - copy constructor
+                    - private constructor.
+                    - static constructor
+
+--------------------------------------
+
 Date: 30/Aug/22 - Time: 7:30-9:00am 
 
 Continue:
@@ -21,7 +77,7 @@ Chapter 1: OOP (Object Oriented Programming)
 
                 - Data (Field):
                 - Properties:
-                - Method:
+                - Method: ឬ Function ជាblock code.
                 - Event: 
 
             + Variable have two:
@@ -74,7 +130,7 @@ Chapter 1: OOP (Object Oriented Programming)
 
     + In Programming:
         - Data
-        - Function
+        - Function: ជាblock code.
 
     + In OOP:
         - Data 
