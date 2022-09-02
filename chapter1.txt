@@ -18,7 +18,7 @@ Chapter 1: Introduction to Internet.
 
             - Root folder: folder ដែលជាការបង្កើត
 
-            + Step To Write Html:
+            1. Step To Write Html:
 
                 Step1. <title>ទំព័រដើម</title>
                         __1__ __2__ __3__
@@ -28,22 +28,28 @@ Chapter 1: Introduction to Internet.
                     3. ស្លាកបិទឬស្លាកបញ្ចប់ closing or end tag.
                     1, 2, និង3 ផ្សំគ្នាទាំងអស់ហៅថា ធាតុ element.
                 
-            + Tag: សម្គាល់ទៅលើសញ្ញា < នឹង >
+                + Tag: សម្គាល់ទៅលើសញ្ញា < នឹង >
 
-            + Element (ធាតុ): 
+                + Element (ធាតុ): 
 
-            + Nesting Element: ការសរសេរមេធាតុនឹងកូនធាតុ ឬ ការសរសេរធាតុនៅក្នុងធាតុ.
+            2 Nesting Element: ការសរសេរមេធាតុនឹងកូនធាតុ ឬ ការសរសេរធាតុនៅក្នុងធាតុ.
 
                 Ex: <head>
                         <title>ទំព័រដើម</title>
                     </head>
-            + របៀបសរសេរមេធាតុកូនធាតុ: សរសេរកូនធាតុនៅពីក្នុងមេធាតុនៅពីក្រៅ.
+                + របៀបសរសេរមេធាតុកូនធាតុ: សរសេរកូនធាតុនៅពីក្នុងមេធាតុនៅពីក្រៅ.
+            
+            3. ធាតុទទេរ (empty element): ដែលមានតែស្លាកបើកឬស្លាកផ្តើមប៉ុណ្ណោះ
+
+                - <hr>
 
         + Page ចែកចេញជាពីរ:
             - head
             - body
 
-            - html តំណាងអោយhtml document ឬ webpage.
+            - <html> តំណាងអោយhtml document ឬ webpage.
+            - <head> តំណាងក្បាលឯកសារhtml ឬ webpage.
+            - <body> តំណាងតួឯកសារhtml ឬ webpage.
                 
 ------------------------------------------------
 
