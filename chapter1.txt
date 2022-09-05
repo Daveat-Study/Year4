@@ -1,3 +1,35 @@
+5/Sep/22, 9:15-10:45am
+
+1.2 Concept:
+
+	d). What is the difference between SE and computer science?
+
+		- CS is concerned with theory and fundamentals
+		- SE is concerned with the practicalities of the developing and delivering useful software ( Lan Sommerville).
+
+	e). What is the difference between SE and system engineering?
+		- System engineering is concerned with all aspects of computer-based systems development, including hardware, software and process engineering.
+		- SE is just part of this process in System Engineering.
+
+	f). What is a SW process? 
+		+ សំណុំនៃ Process SW Process is a set of activities whoses goal is the development or evolution of software, Thease activities are:
+			- SW specification: (កំណត់ឬវិភាគមុខងារ) the functionality of the sofware and constraints on its operation must be defined.
+			- SW Developemnt: the software to meet the specification must be produced.
+			- SW Validation: (បញ្ចាក់ភាពត្រឺមត្រូវដើម្បីធានាថាដំណើរការដូចអតិចិជនចង់បាន) the software must be validated to ensure that it does what the customer wants.
+			- SW Evolution or maintenance: the software must evolve tot meet chaning customer needs.
+	
+	g). SW Characteristics:
+		- Software is developed or engineered, it is not manufactured in the classical sens.
+		- Most software is custom-build, rather than being assembled from existing components.
+		- SW គឺជាទំនីញដែលគ្មានរូប មើលមិនឃើញ.
+		- SW doesn't "wear out": ពុំមានសំណឹក។គុណភាពរបស់វាមាននិន្នាការល្អឡើងក្រោយពីមានកំហុសម្តងៗត្រូវបានរកឃើញនិងកែតម្រូវ។
+		- SW តែងមានកំហុសបង្កប់នៅក្នុងនោះតាមទ្រង់ទ្រាយកាន់តែធំលទ្ធភាពផ្ទុកកំហុសក៏កាន់តែធំដែរ។
+		- កំហុសនៃ SW ងាយប្រទះឃើញដោយអ្នកមកពីខាងក្រៅ។
+		- Sw តែងតែផ្ទុកដោយគំនិតនិងការឆ្នៃប្រឌិតនៃអ្នកសរសេរឬក្រុមបង្កើតវា។
+		- អាចធ្វើការ Copy ដោយសាមញ្ញបំផុត។
+
+--------------------------------------------
+
 1/Sep/22, 7:30-9am
 
 1.2 Concept:
@@ -40,6 +72,9 @@ Continue
 				- Efficiency:
 				=> Easy to use but high space will effect to Efficiency
 				=> Less space or low spec but not easy for Usability.
+
+		+ Defect: estimate half or a year.
+
 ------------------------------------------
 
 29/Aug/22, 9:15-10:45am
