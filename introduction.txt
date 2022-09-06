@@ -1,3 +1,82 @@
+Date 6/Sep/22, Time: 9:15-10:45am
+
+            + សេចក្តីចំពោះ Linux System
+
+    + សង្ខេបពី Free Open Source Software
+        - Open Source Software/ Free (OSS/FS  ដែលគេសរសេរកាត់ថា FLOSS ឬ FOSS មានការកើនឡើងពីសមត្ថភាពរបស់វាខ្ពស់).
+        - និយាយអោយខ្លីមកOSS/FS programs គឺជាកម្មវិធីដែលអាជ្ញាប័ណ្ណរបស់វាបានផ្តល់អោយអ្នកប្រើប្រាស់នូវសិទ្ធិសេរីភាពក្នុងការ
+          ប្រើប្រាស់កម្មវិធីតាមគោលបំណងរបស់គេហើយអាចសិក្សារនិងកែប្រែកម្មវិធីបានហើយអាចចែកចាយបន្តទៀតបានចំពោះកម្មវិធីច្បាប់ដើម្បីគេកែប្រែដោយមិនចាំបាច់សុំសិទ្ធិពីអ្នកបង្កើតវានោះទេ.
+
+    + Keyword
+        - GNU GNU's not Unix ( a project to creat na OSS/FS )
+        - GPL (licence)
+        - OS, OSes
+        - OSS/FS
+
+    + Windows and Linux System:
+
+        + Linux and Linux Distribution:
+            - Linux is kernel of System.
+            - Linux distribution is a company that manage and distribute Linux OS.
+
+    + Linux Distribution such as: Red Hat
+        - CentOS
+        - SuSE
+        - Kali
+        - FreeBSD
+        - Fedora
+        - IPOOP
+
+    + Linux (Kali) : Pen testing.
+
+    + Component Linux/ Unix System
+
+        - Kernel (Unix Kernel)
+        - Shell
+        
+        + នៅក្នុងLinuxមានShellsមួយចំនួន:
+
+            - bash
+            - csh
+            - ksh
+            - sh
+            - tcsh
+            - zsh
+            - dash
+            
+    + Free Software and GNU licence:
+
+        - Richard Statllman think should free OS.
+        + GNU project ជាមួយ GNU public licence (GPL) បញ្ចាក់ថា
+            - Software ដែលកំពុងប្រើត្រូវតែ free.
+            - ក្មាននរណាម្នាក់អាចយកសេរីភាពនោះចេញពីវាបានទេ
+            - គេអាចលក់វាបន្តទៀតបាន
+            - អ្នកលក់ត្រូវតែលក់ទាំង source code.
+
+    + Open source meaning:
+
+        - Free Redistribution.
+        - Source code
+        - Derived Works
+        - Integrity of the Author's Source Code.
+        - No Discrimination Against Person or Group.
+        - No Discrimination Against Field or Endeavor.
+        - Distribution of licence
+        - License Must Not Be Specific to a Product
+        - License Must Not Contaminate Other Software.
+
+    + Difference Windows 2012/2016 and Linux:
+        - User តែមួយនាក់ប្រៀបធៀបជាមួយ Users ច្រើននាក់និង Network Users
+        - Linux បានខ្ចីទស្សនះវិជ្ជាពី UNIX.
+        - ចាប់តាំងពីការចាប់កំណើតរបស់វានៅដើមទស្សវត្សឆ្នាំ1990អាចប្រើជាមួយUsersជាច្រើនបាន
+        - សព្វថ្ងៃនេះភាពប្រើភាគច្រើនបំផុតរបស់ Users ជាច្រើនគឺជាការបង្កើតជាម៉ាសុីន Server ទាំង Linux and Window 2012/2016 មានសមត្ថភាពក្នុងការផ្តល់អោយនូវសេវាដូចជា Databases តាមប្រព័ន្ធ Network.
+
+    - Unix who create Linux system
+
+    + MS-DOS
+
+---------------------------------------------
+
 Date 24/Aug/22
 
 + Task: Install server 2019 on virtual machine
