@@ -1,3 +1,40 @@
+Date: 6/Sep/22 - Time: 7:30-9:00am 
+
+    Continue:
+    2). Class members:
+        iii). Method (public) ឬ Function ជាblock code.
+            * Contructors:
+                i) Default Contructor ( without parameter )
+
+                    + ភាគច្រើនប្រើដើម្បី Initalize value    
+                
+                ii) Parameterized Constructor:
+
+                    + ប្រើនៅពេលយើងចង់យកតម្លៃពីខាងក្រៅមកប្រើ
+
+                iii) Copy Constructor: ជា ContructorដែលមានParameter ជា class itself.  
+                    + copy only data.
+    
+                    A obj1 = new A():
+                    obj1.Px = 10;
+                    obj1.Py = "ABCD";
+                    A obj2 = obj1;
+
+                    => obj2 contain address the same of obj1.
+
+                iv) Private constructor: 
+                    - មិនអាចប្រើ object បានទេ.
+                    - Access only class member.
+
+                    + Uses:
+                        - នៅពេលដែលត្រូវការclassដែលអាចobjectបានតែ១គត់.
+
+        + instance member: ជាmemberដែលប្រើបានតាមរយះobject
+        + static member: ជាmemberដែលប្រើបានតាមរយះ static
+        + abstract member:
+        + field member:
+
+--------------------------------------
 Date: 2/Sep/22 - Time: 9:15-10:45am 
 
 Chapter 1: OOP (Object Oriented Programming)
@@ -41,6 +78,7 @@ Chapter 1: OOP (Object Oriented Programming)
                 - ងាយស្រួលចំណាំ
                 
             * Contructors: គឺជា special method
+                លក្ខណះពិសេស:
                 1. ត្រូវមានឈ្មោះដូច class
                 2. Constructor ត្រូវបាន called ដោយស្វ័យប្រវត្តិនៅពេលបង្កើត object.
                 - ជា method ដែលមិនreturn តម្លៃ.
@@ -139,4 +177,4 @@ Chapter 1: OOP (Object Oriented Programming)
         - Event
 
     Field ជា member variable របស់ class
-    - មុខងារសំរាប់ store data
+    - មុខងារសំរាប់ store dataclear
