@@ -26,11 +26,12 @@ Chapter 1: Introduction to Internet.
                     1. ស្លាកបើកឬស្លាកផ្តើម opening or start tag.
                     2. ខ្លឹមសារ Content.
                     3. ស្លាកបិទឬស្លាកបញ្ចប់ closing or end tag.
-                    1, 2, និង3 ផ្សំគ្នាទាំងអស់ហៅថា ធាតុ element.
+
+                    => 1, 2, និង3 ផ្សំគ្នាទាំងអស់ហៅថា ធាតុ element.
                 
                 + Tag: សម្គាល់ទៅលើសញ្ញា < នឹង >
 
-                + Element (ធាតុ): 
+                + Element (ធាតុ): 1, 2, និង3 ផ្សំគ្នាទាំងអស់ហៅថា ធាតុ element
 
             2 Nesting Element: ការសរសេរមេធាតុនឹងកូនធាតុ ឬ ការសរសេរធាតុនៅក្នុងធាតុ.
 
@@ -51,7 +52,7 @@ Chapter 1: Introduction to Internet.
                     - <head> តំណាងក្បាលឯកសារhtml ឬ webpage.
                     - <body> តំណាងតួឯកសារhtml ឬ webpage.
             
-            4. គុណលក្ខណះរបស់ធាតុ Attribute of the element: 
+            4. គុណលក្ខណះរបស់ធាតុ Attribute of the element: ជាការកំណត់បន្ថែមបុគ្គលិកលក្ខណះទៅលើ element.
                 - ឈ្មៅះគុណលក្ខណះ = (នាំអោយ) "តម្លៃគុណលក្ខណះ" ឬ 'តម្លៃគុណលក្ខណះ'
                 Ex: <img src = "sdfdsf" alt = 'ក្មួយស្រី'>
                          _1_ 2 ___3____ _4_ 5 ___6___
