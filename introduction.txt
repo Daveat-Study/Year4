@@ -1,3 +1,59 @@
+Date 7/Sep/22, Time: 9:15-10:45am
+
+            + សេចក្តីចំពោះ Linux System
+    
+    +  GUI and Kernel:
+        -
+
+    + Network Neightborhood
+
+    + Registry vs TEXT files
+        - Window regedit.exe
+        - Linux have no registry
+
+    + Domain
+        - Window have domain to validate user login.
+        - Linux: nis.
+
+    + Active Directory:
+        - Window (AD)
+        - Linux doesn't have active Directory but use (LDAP)
+
+    + What is Command?
+        - Command is instruction that typer type on command line and press enter to do something and computer know that command on Unix.
+        - Command គឺជា file មួយដូចជា ls, cal, ping
+
+    + Binary file: is a executable file after compile.
+
+    + Shell Prompt Basic:
+
+        - $ for user
+            - [student@linux root] $
+            - can only access to system can't manage the whole system.
+            - can use what have in system.
+
+        - # for root.
+            - [root@linux root] #
+            - can only access to system can't manage the whole system.
+
+    + Shells and commands
+
+        + Shell 
+            - ជា Interface for user interact with kernel.
+            - Shell is not OS
+
+        + Command is a programme that translate and allow user to execute command via terminal or program.
+
+    + Permission and User Right:
+        + Permission: 
+            - read, write execute, and delete
+
+        + User Right or Privilege: is user right control the entire system.
+
+            - Privilege: 
+
+---------------------------------------------
+
 Date 6/Sep/22, Time: 9:15-10:45am
 
             + សេចក្តីចំពោះ Linux System
@@ -32,7 +88,8 @@ Date 6/Sep/22, Time: 9:15-10:45am
     + Component Linux/ Unix System
 
         - Kernel (Unix Kernel)
-        - Shell
+
+        - Shell ជា Interface for user interact with kernel.
         
         + នៅក្នុងLinuxមានShellsមួយចំនួន:
 
