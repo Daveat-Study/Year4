@@ -1,3 +1,53 @@
+Date: 7/Sep/22 - Time: 7:30:9am 
+
+Contiue
+Chapter 1: Introduction to Internet.
+
+    5. 
+        + h1 - h6 ឬ (heading text): សម្រាប់សរសេរចំណងជើងអត្ថបទ
+
+            - Elementនេះខុសគ្នាត្រង់អក្សរធំនិងតូច ហើយ ដិតនិងក្រាស់
+
+            - h1
+            - h1
+            - h1
+            - h1
+            - h1
+            - h1
+
+        - p ឬ (paragraph): វគ្គអត្ថបទឬកថាខណ្ឌ។
+
+        - br ឬ (line break): ចុះបន្ទាត់. (empty element)
+
+        - អត្ថបទត្រវបានសរសេរជាច្រើនវគ្គហើយវគ្គនិមួយៗត្រូវបានហៅថា p ឬ paragraph
+
+        + span ជាធាតុដែលយើងអាចចែកអត្ថបទជាចំណែកៗ.
+        
+            - កាលណាយើងចង់ចែកអត្ថបទហើយបន្ថែមនូវសោភ៏ណភាពឬប្រើជាមួយ CSSឬJavascript គេប្រើ span.
+
+        + em, strong, mark element: ប្រើសំរាប់សង្កត់ន័យទៅលើអត្ថបទ
+
+        + sup, sub: ប្រើនៅពេលដូចជា គណិតវិជ្ជា x2
+
+        + ol and ul
+            - li ជាកូនធាតុ (list item) អ្វីៗត្រូវកត់ជាបញ្ជី
+            - ol ជាមេធាតុ
+
+            - បញ្ជីដែលសំខាន់ដូរមិនបានហើយសំខាន់ប្រើ ol
+            - បញ្ជីដែលសំខាន់ដូរបាននិងមិនសូវសំខាន់ប្រើ li
+
+    Summary:
+        - p 
+            - span
+
+            - em, strong, mark
+            - sup, sub
+        List
+            - li child of ol or ul
+            - Importance ol
+            - Not Importance ul
+
+------------------------------------------------
 Date: 31/Aug/22 - Time: 7:30:9am 
 
 Contiue
