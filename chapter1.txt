@@ -19,6 +19,8 @@ Chapter 1: Introduction to Internet.
 
     + # (hash sign): មានន័យថានៅ current File 
 
+    + img: តាំងរូបភាព(IMaGe)ក្នុងវេបផេកដោយបញ្ជាក់អាស័យដ្ឋានរូបភាពគ្នុងគុណលក្ខណៈ SouRCe និង អត្ថបទបទឆ្លាស់គ្នានិងរូបភាពក្នុងគុណលក្ខណៈ ALTernating text
+
 ------------------------------------------------
 
 Date: 7/Sep/22 - Time: 7:30:9am 
