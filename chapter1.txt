@@ -1,3 +1,26 @@
+Date: 9/Sep/22 - Time: 7:30:9am 
+
+Contiue
+Chapter 1: Introduction to Internet.
+
+    6 អាស័យដ្ឋានក្នុងវេបសាយ (Relative Address)
+
+        - FolderName / ចូលទៅថតឯកសារបានបញ្ជាក់ឈ្មោះ
+        - .. / ឡើងទៅកាន់មេថតឯកសារ
+        - FileName.extension ឯកសារនៅជាមួយគ្នាក្នុងថតឯកសារតែមួយ។
+
+    + ចំណាំ:
+
+        - គុណលក្ខណះ href (hyper reference) ឬ គុណលក្ខណះ src (Source) សម្រាប់សរសេរអាស័យដ្ឋាន។
+
+    + Anchor សម្រាប់តទៅវេបផេកបានបញ្ជាក់អាស័យដ្ឋាន
+
+    + <a href="អាស័យដ្ឋាន">ឃ្លាតំណ</a>
+
+    + # (hash sign): មានន័យថានៅ current File 
+
+------------------------------------------------
+
 Date: 7/Sep/22 - Time: 7:30:9am 
 
 Contiue
@@ -9,11 +32,11 @@ Chapter 1: Introduction to Internet.
             - Elementនេះខុសគ្នាត្រង់អក្សរធំនិងតូច ហើយ ដិតនិងក្រាស់
 
             - h1
-            - h1
-            - h1
-            - h1
-            - h1
-            - h1
+            - h2
+            - h3
+            - h4
+            - h5
+            - h6
 
         - p ឬ (paragraph): វគ្គអត្ថបទឬកថាខណ្ឌ។
 
