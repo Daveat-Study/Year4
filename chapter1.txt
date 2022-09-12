@@ -1,3 +1,48 @@
+Date: 2/Sep/22 - Time: 9:15-10:45am 
+
+    Continue:
+    2). Class members:
+
+        iii). Method Overloading (public) ឬ Function ជាblock code.
+            * Static Contructor:
+                - Static Contructor មិនមាន parameter, ដូច្នេះ ក្នុង class អាចមាន static Contructor តែមួយគត់
+                - Static Contructor សំរាប់ initalize static field 
+                - Static Constructor ត្រូវបាន called នៅពេល class initalized ឬ នៅពេល called static member ជាលើកដំបូង.
+                Ex:
+                    class A {
+                        .
+                        .
+                        .
+                        public static A(){
+                            Console.writeline("From static Contructor");
+                        }
+                        public static String MA(){
+                            Console.Writeline("From static method MA()");
+                        }
+                    }
+
+            + Advantages of constructor: save time.
+
+    3). Type of members ( Instance, static, abstract, sealed ):
+        
+        i) instance member: 
+            - ជាmemberដែលប្រើបានតាមរយះobject
+
+        ii) static member: 
+            - ជាmemberដែលប្រើបានតាមរយះ static
+            - Static members ជា members ដែលអាចប្រើរួមគ្នារវាង object ទាំងអស់ដែលកើតចេញពី class នោះ
+            - Static members ត្រូវបានបង្កើតដោយប្រើ keyword static:
+
+            EX: 
+                class A {
+                    
+                    static init x;
+                    static 
+                }
+        - abstract member: 
+        - sealed member:
+
+--------------------------------------
 Date: 6/Sep/22 - Time: 7:30-9:00am 
 
     Continue:
@@ -29,10 +74,11 @@ Date: 6/Sep/22 - Time: 7:30-9:00am
                     + Uses:
                         - នៅពេលដែលត្រូវការclassដែលអាចobjectបានតែ១គត់.
 
-        + instance member: ជាmemberដែលប្រើបានតាមរយះobject
-        + static member: ជាmemberដែលប្រើបានតាមរយះ static
-        + abstract member:
-        + field member:
+        + Member មានប៉ុន្មានក្រុម?
+            - instance member: ជាmemberដែលប្រើបានតាមរយះobject
+            - static member: ជាmemberដែលប្រើបានតាមរយះ static
+            - abstract member: 
+            - sealed member:
 
 --------------------------------------
 Date: 2/Sep/22 - Time: 9:15-10:45am 
