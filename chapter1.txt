@@ -1,3 +1,53 @@
+12/Sep/22, 9:15-10:45am
+
+	2.1. A layered Technology:
+
+		a). Process, Methods, and Tools:
+
+			1. First layer:
+				- Process: SE process is the glue that holds the technology layers together and 
+					- enables 
+					- rational
+					- timely.
+
+			2. Second layer:
+				- Methods: SE methods provide of  technical how-to's building SW
+					- Communication
+					- Requirement
+					- Design
+					- Code
+					- Testing
+					- Deployment
+					- Support
+
+			3. Third layer:
+				- Tools: SE tools prvide automated or semi-automated support for the process and the methods.
+
+			4. Forth layer:
+				- A quality focus: 
+
+		b). A Generic View of SE:
+
+			* The work associated with SE can be categorized three Generic phases:
+				
+				+ The definition phase focus on "WHAT":
+					- What information is to be processed
+					- What function and performance are desired
+					- What system behaviro can be expected
+					- What interfaces are to be established
+					- What design constraints exist
+					- What validation criteria are required to define a successful system.	
+
+			* The development phase focus on "HOW":
+
+				- How data are to be structured 
+				- How function is to be implementd with a SW architecture
+				- How procedural details are to be implements: refer algorithm.
+				- How interface are to be characterized: refer to លក្ខណៈឬមុខងារនៃ interface និមួយៗ.
+				- How the design will be translated into programming language: refer to PDL(Programming design language) Pseudocode
+				- How testing will be perform
+
+--------------------------------------------
 5/Sep/22, 9:15-10:45am
 
 1.2 Concept:

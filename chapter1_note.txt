@@ -1,5 +1,18 @@
 5/Sep/22, 7:30-9am
 
+	2.1. A layered Technology:
+
+        b). A Generic View of SE:
+
+			- What:
+            - How:
+            - Change: 
+
+            - interface: ជាផ្ទៃ software ដែលដំណើរការនៅលើឧបករណ៍អេឡិចត្រូនិចដែលអាចអោយយើងទំនាក់ទំនងជាមួយ software នោះ.
+
+------------------------------------------
+5/Sep/22, 7:30-9am
+
 Continue
 1.2 Concept:
 
