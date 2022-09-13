@@ -1,3 +1,18 @@
+Date: 13/Sep/22 - Time: 7:30-9:00am 
+
+    4). Static Class:
+
+    
+    + OOP:
+        - Abstraction 
+        
+        + Most use:
+        - Encapsulation => use
+        - Inheritance => use
+        - Polymorphism = use
+
+--------------------------------------------
+
 Date: 30/Aug/22 - Time: 7:30-9:00am 
 
 Continue:

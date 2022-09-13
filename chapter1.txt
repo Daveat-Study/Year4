@@ -1,3 +1,41 @@
+Date: 13/Sep/22 - Time: 7:30-9:00am 
+
+    4). Static Class:
+
+        - Static class ជា class ដែលបង្កើតដោយប្រើ keyword static.
+        - Static class ជា class ដែលមិនអាចបង្កើត object បានទេ.
+        - Static class ជា class ដែលមិនអាច inherit បានទេ.
+        - Static class មាន members សុទ្ធតែជា Static members.
+
+        + ex: 
+        static Class A{
+            static int x;
+            static string y;
+
+            public static A(){
+                
+            } 
+            public static int Px(){
+                get
+                set
+            } 
+            public static int Py(){
+                get
+                set
+            } 
+
+            public static string MA(int i){
+
+            }
+        }
+
+        A). Encapsulation:
+            - Encapsulation ជារបៀប នៃការរុំឬវេចខ្ចប់ (encapsulate) code និង data ជាមួយគ្នា តាមរយៈ object
+
+            + គោលបំណង:
+                - ការពារ data (field) មិនអោយពីខាងក្រៅអាចប្រើប្រាស់បាន (data hiding)
+                - អាចប្រើប្រាស់បានតែ public members តែប៉ុណ្ណោះ
+--------------------------------------
 Date: 2/Sep/22 - Time: 9:15-10:45am 
 
     Continue:
@@ -22,6 +60,10 @@ Date: 2/Sep/22 - Time: 9:15-10:45am
                     }
 
             + Advantages of constructor: save time.
+
+            + static member: 
+                - អាចប្រើរួម.
+                - ប្រើបានដោយហៅclassName
 
     3). Type of members ( Instance, static, abstract, sealed ):
         
