@@ -1,3 +1,32 @@
+Date 13/Sep/22, Time: 9:15-10:45am
+
+            + សេចក្តីចំពោះ Linux System
+
+    + តួអក្សរពិសេស:
+        - \ Backslash = if use like "Royal Universy".
+        - / Forwardslash = សម្រាប់ចែកឬញែករវាង Folder និង Sub folder.
+        - . = Current Directory
+        - .. (refer to parent)= Back to Previous directory
+        - ~ (tise) = Back To home
+        - * (asterisk) = Get all
+        - ? (question mark) = រក១តួអក្សរ
+        - [] (refer range) =
+        - | = យកលទ្ធផល command ១ ទៅបង្ហាញនៅក្នុង command 1 ទៀត
+        - > (right-angle) = រកfile ដែលmatch បើមានoverride file else create new one.
+        - >> = append
+        - < =
+        - ; = ls ;date;cal;who
+
+        [Student@Centos ~] $
+         ___1__ 2__3___ 4  5
+
+        1. UserName
+        2. Hostname
+        3. Home
+        4. Directory
+        5. User 
+ 
+---------------------------------------------
 Date 7/Sep/22, Time: 9:15-10:45am
 
             + សេចក្តីចំពោះ Linux System
