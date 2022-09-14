@@ -1,3 +1,26 @@
+Date: 14/Sep/22 - Time: 7:30:9am 
+
+    + Create have 4 element:
+
+        table មេ
+        tr កូន
+
+        td: បើមិនមែនប្រើជាក្បាល
+
+    + Form (សុំណំបែបបទ): សម្រាប់ទទួលពត៌មានពីអ្នកទស្សនា
+
+        + method Attribute:
+            - get: បញ្ចាក់របៀបផ្ញើ លឿន ទំហំកំណត់ មិនសុវត្តិភាព
+            Ex: 
+            <form action="" method="get">
+
+            - post: បញ្ចាក់របៀបផ្ញើ យឺត ទំហំមិនកំណត់ មានសុវត្តិភាព
+
+        + ធាតុ div និង span ជាធាតុទូទៅដែលអាចប្រើបានច្រើនយ៉ាង តាមតម្រូវការជាក់ស្តែង
+
+            - general purpose by adding such as wrapper, split... in id
+
+------------------------------------------------
 Date: 9/Sep/22 - Time: 7:30:9am 
 
 Contiue
