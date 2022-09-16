@@ -1,3 +1,33 @@
+15/Sep/22, 7:30-9am
+
+	Continue:
+	2.1. A layered Technology:
+
+		b). A Generic View of SE:
+
+			+ The support (maintenance):
+				- Correction: Corrective maintenance
+				- Adaptation: Adaptive maintenance
+				- Enhancement: Perfective maintenance
+				- Prevention: Preventive write code to prevent issue in te future.
+
+	2.2. Software Life-Cycle
+
+		- Cycle: វដ្ដ
+		
+		=> SW Life-Cycle: គឺជាដំណាក់កាលគិតចាប់ពីពេលដែល SW ត្រូវបានបង្កើតឡើងរហុូតដល់ពេលគេលែងប្រើ (ពីពេលចាប់កកើត ឆ្លើងតបទៅនឹងតម្រូវការ Operate, maintenance រហុូតដល់ពេលបោះបង់ចោលលែងហើយ)
+
+		- SW Life-Cycle: ត្រូវបានចែកជា Phase សំខាន់គឺ Analysis, Design, Coding, Testing, maintenance។ ការសម្ដែងជា phase ទាំងឡាយមានភាពខុសគ្នាទៅតាមមនុស្សម្នាក់ៗ។
+
+		+ Primary function of a software
+
+		+ Why are software process models importance?
+
+			- They provider guidance on the order in which a software development project should carry out its major tasks.
+
+		1). The waterfall Model life Cycle:
+
+--------------------------------------------
 12/Sep/22, 9:15-10:45am
 
 	2.1. A layered Technology:
@@ -63,7 +93,9 @@
 
 	f). What is a SW process? 
 		+ សំណុំនៃ Process SW Process is a set of activities whoses goal is the development or evolution of software, Thease activities are:
-			- SW specification: (កំណត់ឬវិភាគមុខងារ) the functionality of the sofware and constraints on its operation must be defined.
+			- SW specification: (កំណត់ឬវិភាគមុខងារ) the functionality of the software and constraints on its operation must be defined.
+
+			+ Why are software process models importance?
 			- SW Developemnt: the software to meet the specification must be produced.
 			- SW Validation: (បញ្ចាក់ភាពត្រឺមត្រូវដើម្បីធានាថាដំណើរការដូចអតិចិជនចង់បាន) the software must be validated to ensure that it does what the customer wants.
 			- SW Evolution or maintenance: the software must evolve tot meet chaning customer needs.
