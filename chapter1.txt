@@ -1,3 +1,56 @@
+Date: 20/Sep/22 - Time: 7:30-9:00am 
+
+    5). The Principle of OOP
+
+        a). Encapsulation
+
+        b). Inheritance
+            + Inheritance ជាលទ្ធផលដែល class មួយអាចទទួលនូវអ្វីៗ (members) របស់ class មួយផ្សេងទៀតបាន។
+                - class ដែលផ្តល់ member អោយទៅគេ ហៅថា Base class, Parent class, Super class.
+                - class ដែលទទួល members ពីគេ ហៅថា Derived class, Child class, Sub class.
+                - Derived class អាចថែមនូវ members ផ្សេងៗទៀតបាន.
+
+            i) 
+                + Accessibility & Visibility:
+                    ____________________________________________________________________________________________
+                    | Access Modifier | In the clas itself | In the Derived class | Outside the class (object) |
+                    --------------------------------------------------------------------------------------------
+                    |   Private       |        Yes         |        No            |         No                 |
+                    |   Protected     |        Yes         |        Yes           |         No                 |
+                    |   Public        |        Yes         |        Yes           |         Yes                |
+                    --------------------------------------------------------------------------------------------
+
+            ii). Constructor:
+
+                - ក្នុង C#, Derived class មិនអាចទទួល Constructor ពី base class ទេ។
+
+                - Object កើតឡើងបាននៅពេលដែលវា Access ទៅ Constructor, ទើបយើងបានជា Object.
+
+                *** យើងដឹងថា Derived មិនអាចទទួល Constructor of base class បានទេ ពេលនោះហើយ Object base class ក៏មិនអាចកើតឡើងដែរ។​
+                    អញ្ចឹដើម្បីអាចអោយ Base clas អាច អោយ Derived class បង្កើត object or access to Base class constructor
+                    យើងត្រូវប្រើ keyword: ( public  DerivedClassName() : base() )
+
+                    * Constructor របស់ Derived Class:
+                        => public  DerivedClassName() : base(); 
+
+            + Example:
+
+                class B : A {
+
+                    int z;
+                    public int Pz{
+                        get{ return z; }
+                        set{ z = value; }
+                    }
+                    public int MB(){
+                        z = z+Px;
+                        return z;
+                    }
+
+                    public B() : base() // Access to Base class's Constructor
+                }
+                
+--------------------------------------
 Date: 13/Sep/22 - Time: 7:30-9:00am 
 
     4). Static Class:
@@ -35,6 +88,7 @@ Date: 13/Sep/22 - Time: 7:30-9:00am
             + គោលបំណង:
                 - ការពារ data (field) មិនអោយពីខាងក្រៅអាចប្រើប្រាស់បាន (data hiding)
                 - អាចប្រើប្រាស់បានតែ public members តែប៉ុណ្ណោះ
+
 --------------------------------------
 Date: 2/Sep/22 - Time: 9:15-10:45am 
 
