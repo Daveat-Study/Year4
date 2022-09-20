@@ -2,6 +2,33 @@ Date 13/Sep/22, Time: 9:15-10:45am
 
             + សេចក្តីចំពោះ Linux System
 
+    + File System Structure:
+
+        - /usr/Directory
+
+        - /var/Directory
+
+        + Partition: ជាផ្នែក១នៃHard disk ដែលវាត្រូវបានចែកដោយយើងផ្ទាល់.
+
+    + លក្ខណៈពិសេសរប់ស ext, ext4, Btrf and XFS.
+
+        - ext3 prevent lost data 
+    
+    + File Systems and instruction of CentOS:
+
+        + 3 Partitions Mount Point:
+
+            - |/boot | -> Kernel
+            - |/root | -> OS
+            - |/Swap | -> Virtual Memory
+
+        
+
+---------------------------------------------
+Date 13/Sep/22, Time: 9:15-10:45am
+
+            + សេចក្តីចំពោះ Linux System
+
     + តួអក្សរពិសេស:
         - \ Backslash = if use like "Royal Universy".
         - / Forwardslash = សម្រាប់ចែកឬញែករវាង Folder និង Sub folder.
