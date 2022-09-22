@@ -1,9 +1,49 @@
+22/Sep/22, 7:30-9am
+
+	4). The RAD (Rapid Application Development) Model:
+
+		- The RAD Model is hight-speed adaptation of the linear sequential model.
+		- Project requirement must understood and scope tightly constrainted.
+		- Developer able to user component-based to build fully functional system in short time perioud.
+
+		+ RAD Model មានលក្ខណៈ 
+
+			- Incremental software development: កើនឡើងជាជំហានៗ 60-90ថ្ងៃ.
+			- Component-based construction: ប្រើប្រាស់ឡើងវិញ (reusability) 
+
+			* លើនផ្អែកទៅលើ Component ដែលមានស្រាប់
+
+			* RAD Model spend a lot money.
+
+			* RAD Model work as teams.
+
+				1). Teams should consist 6 people such as:
+					- Developer
+					- Full-time user: because need to complete project short time.
+					- Might plus anyone else who has a stake in the requirement.
+
+				2). Developers should be multi-talented "renaissance"
+					+ Why don't separete designer, Analysis, developer?
+					=> Because to prevent freeze task when something wrong happen such as developer sick...	
+
+					* Business modeling.
+						+ is information flow to make a model and answer some question below:
+							- What information drives the Business process?
+							- What information is generated?
+							- Who generates it?
+							- Where does the information go? or where those information keep?
+							- Who processes it? 
+
+	- វិភាគសង្កេត 
+	- វិភាគសួរនាំ
+
+--------------------------------------------
+
 19/Sep/22, 9:15-10:45am
 
     4). The RAD (Rapid Application Development) Model:
 
-
-
+		
 
         Team #1
         
