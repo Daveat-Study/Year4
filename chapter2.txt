@@ -1,3 +1,67 @@
+Date: 23/Sep/22 - Time: 7:30:9am 
+
+    Chapter II: CSS
+
+        * Class selector 
+
+            - Universal selector(សញ្ញាផ្កាយ): ជ្រើសរកធាតុទាំងអស់នៅលើ webpage
+                
+                Ex: *{
+                        margin: 0; padding: 0;
+                    }
+
+            - Group selector or Competitor selector ( សញ្ញាក្បៀស ): ផ្តុំអ្នករើស (selector) ជាក្រុម
+                
+                - selector ចាប់ពី២ឡើងទៅគេហៅថា Competitor selector
+                
+                Ex: h1, h2, h3, h4, h5, h6 {
+                        font-family:Arial, Helvetica, sans-serif;
+                    }
+            
+            - Child selector ( សញ្ញាធំជាង ): រើសយកកូនធាតុរបស់មេធាតុដែលបានបញ្ជាក់
+                
+                EX: 
+                    ul>ui {
+                        display: inline-block;
+                    }
+
+        * Descendant selector ( សញ្ញាដកឃ្លា ): ជ្រើសធាតុជំនាន់ក្រោយរបស់មេធាតុដែលបានបញ្ជាក់។ ធាតុជំនាន់ក្រោយអាចមានច្រើនដូចជា កូន ចៅ ចៅទួត ល។
+
+                Ex: ul a {
+                        display: inline-block;
+                    }
+
+            + Pseudo-classes selector: រើសធាតុទៅតាមស្ថានភាពដែលបានបញ្ជាក់
+                - a:link : រើសធាតុ a ទាំងឡាយណាដែលគេមិនទាន់បានចុចលើវា
+                    Ex: ul a:link {
+                        color: greenyellow;
+                    }
+
+                - a:visited : រើសធាតុ a ទាំងឡាយណាដែលគេចុចលើវារួចហើយ
+                    Ex: Ex: ul a:visited {
+                        color: greenyellow;
+                    }
+
+                - a:hover : រើសធាតុ a ទាំងឡាយណាដែលគេដាក់ mouse pointer ពីលើវា
+                    Ex: ul a:hover {
+                        color: greenyellow;
+                    }
+
+                - :nth-child(n) : រើសកូនធាតុទី n ។ n អាចជាលេខដូចជា 1, 2, .....ល ឬជារូបមន្តដូចជា 2n ឬ 2n+1
+                    Ex: /* ជ្រើស tr ដែលជាកូនធាតុមានលំដាប់រៀងគូរៗ ២, ៤, ៦, ..ល។ */
+                        tr:nth-child(2n){
+                            background-color: lightgrey;
+                        }
+
+                - Pseudo-element selector: ជ្រើសផ្នែកនៃធាតុ ::first-letter ជ្រើសរើសអក្សរទី១
+                    Ex: h1::first-letter{
+                            border-radius: 50%;
+                            background-color: yellow;
+                            padding: 1em 1.5em;
+                        }    
+
+------------------------------------------------
+
 Date: 21/Sep/22 - Time: 7:30:9am 
 
     Chapter II: CSS
@@ -10,8 +74,8 @@ Date: 21/Sep/22 - Time: 7:30:9am
 
             2.1). CSS Rule:
 
-                + អ្នករើស (selector) { declaration1; declaration2; ...; declarationN } 
-                --------------------------RULE---------------------------------------
+                + អ្នករើស (selector) { declaration1; declaration2; ...; declarationN } |
+                --------------------------RULE-------------------------------------  |
                     - Above call CSS Rule ឬ ច្បាប់នៃការរចនា
                     
                     - អ្នករើស (selector): រើសយកផ្នែករបស់ webpage មករចនា។
