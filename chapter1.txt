@@ -1,3 +1,37 @@
+Date: 27/Sep/22 - Time: 7:30-9:00am 
+
+    + Hidding Method:
+
+        - មានសិទ្ធិក្នុងការកែ method of base class ទោះគ្មានការផ្តល់សិទ្ធិពី base class.
+
+        - ក្នុងករណីមាន method override ច្រើន version different parameter យើងមិនគួរប្រើ Hidding Method ព្រោះវាហ្នឹង hide method ទាំងអស់ version បើយើងចង់កែតែ version ណា១។
+
+    + នៅពេល Derrived class override method, member របស់ base class
+
+        - គឺមិនប៉ះពាល់ដល់ method, member នៃ base ទេ.
+
+        - កែបានលុះត្រាតែ Base class ផ្តល់សិទ្ធិអោយកែ ដោយ base class ដាក់ keyword "virtual" ទៅលើ method ណា១.
+
+        Ex: Class A {
+            
+                public string MA(){
+
+                }
+
+                public virtual string MB(int x){
+                    
+                }
+            }
+
+            Class B : A {
+
+                public override string MB(int x){
+
+                }
+            }
+
+-----------------------------------------
+
 Date: 20/Sep/22 - Time: 7:30-9:00am 
 
     5). The Principle of OOP
