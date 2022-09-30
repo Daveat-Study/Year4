@@ -3,7 +3,7 @@ Date: 31/Aug/22 - Time: 7:30:9am
 Contiue
 Chapter 1: Introduction to Internet.
     
-    - .html ជាការបង្កើតwebpage.
+    html ជាការបង្កើតwebpage.
 
 ----------------------------------
 

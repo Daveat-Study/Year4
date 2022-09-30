@@ -1,0 +1,158 @@
+#### Date 29/Sep/22 - 9:15pm-10:45pm
+
+    Default font size 16 pixel
+
+------------------------------------------------
+
+#### Date: 28/Sep/22 - Time: 7:30:9am 
+
+## <center>Chapter II: CSS</center>
+        
+* Class selector:
+
+    * Boxes:
+
+        មិនថា Block ឬ inline   នោះទេធាតុទាំអនេះសុទ្ធតែមានប្រអប់ចំនួន៤គឺ:
+
+            - content padding border and margin.
+
+
+                    |---------------------------------|
+                    |  Margin                         |
+                    |   |-------------------------|   |
+                    |   |  border                 |   |
+                    |   |   |------------------|  |   |
+                    |   |   |  padding         |  |   |
+                    |   |   |   |----------|   |  |   |
+                    |   |   |   |          |   |  |   |
+                    |   |   |   |__________|   |  |   |
+                    |   |   |                  |  |   |
+                    |   |   |__________________|  |   |
+                    |   |                         |   |
+                    |   |_________________________|   |
+                    |                                 |
+                    |_________________________________|
+
+            + Content: ប្រអប់ខ្លឹមសារ
+            + Padding: គម្លាតទ្រនាប់ 
+                * Ex:   padding: លើក្រោម ឆ្វេងស្តាំ;
+                            padding: លើ ស្តាំ ក្រោម ឆ្វេង
+            + Border: ប្រអប់
+
+                + inset: ក្បាច់ស៊ុម 3D ដែលកើតចេញពីចម្លាស់ពណ៌ផ្សេងគ្នាមួយស្រទាប់
+
+                + inline style ប្រើគុណលក្ខណៈ style សរសេរ declaration
+
+                + groove and ridge: ក្បាច់ស៊ុម 3D ដែលកើតចេញពីចម្លាស់ពណ៌ផ្សេងគ្នាពីរស្រទាប់
+
+                + border: កម្រាស់ ក្បាច់ ពណ៌ស៊ុម។
+
+            + Margin: រឹម ឬ គម្លាតធាតុ
+
+                => រុញ Content ប្រើ padding
+                => រុញ Element ប្រើ Margin
+
+------------------------------------------------
+#### Date: 23/Sep/22 - Time: 7:30:9am 
+
+## Chapter II: CSS
+
+* Class selector 
+        - Universal selector(សញ្ញាផ្កាយ): ជ្រើសរកធាតុទាំងអស់នៅលើ webpage
+            
+            Ex: *{
+                    margin: 0; padding: 0;
+                }
+        - Group selector or Competitor selector ( សញ្ញាក្បៀស ): ផ្តុំអ្នករើស (selector) ជាក្រុម
+            
+            - selector ចាប់ពី២ឡើងទៅគេហៅថា Competitor selector
+            
+            Ex: h1, h2, h3, h4, h5, h6 {
+                    font-family:Arial, Helvetica, sans-serif;
+                }
+        
+        - Child selector ( សញ្ញាធំជាង ): រើសយកកូនធាតុរបស់មេធាតុដែលបានបញ្ជាក់
+            
+            EX: 
+                ul>ui {
+                    display: inline-block;
+                }
+    * Descendant selector ( សញ្ញាដកឃ្លា ): ជ្រើសធាតុជំនាន់ក្រោយរបស់មេធាតុដែលបានបញ្ជាក់។ ធាតុជំនាន់ក្រោយអាចមានច្រើនដូចជា កូន ចៅ ចៅទួត ល។
+            Ex: ul a {
+                    display: inline-block;
+                }
+        + Pseudo-classes selector: រើសធាតុទៅតាមស្ថានភាពដែលបានបញ្ជាក់
+            - a:link : រើសធាតុ a ទាំងឡាយណាដែលគេមិនទាន់បានចុចលើវា
+                Ex: ul a:link {
+                    color: greenyellow;
+                }
+            - a:visited : រើសធាតុ a ទាំងឡាយណាដែលគេចុចលើវារួចហើយ
+                Ex: Ex: ul a:visited {
+                    color: greenyellow;
+                }
+            - a:hover : រើសធាតុ a ទាំងឡាយណាដែលគេដាក់ mouse pointer ពីលើវា
+                Ex: ul a:hover {
+                    color: greenyellow;
+                }
+            - :nth-child(n) : រើសកូនធាតុទី n ។ n អាចជាលេខដូចជា 1, 2, .....ល ឬជារូបមន្តដូចជា 2n ឬ 2n+1
+                Ex: /* ជ្រើស tr ដែលជាកូនធាតុមានលំដាប់រៀងគូរៗ ២, ៤, ៦, ..ល។ */
+                    tr:nth-child(2n){
+                        background-color: lightgrey;
+                    }
+            - Pseudo-element selector: ជ្រើសផ្នែកនៃធាតុ ::first-letter ជ្រើសរើសអក្សរទី១
+                Ex: h1::first-letter{
+                        border-radius: 50%;
+                        background-color: yellow;
+                        padding: 1em 1.5em;
+                    }    
+--------------------------------------------
+#### 21/Sep/22 - Time: 7:30:9am 
+## Chapter II: CSS
+
+* CSS Introduction:
+
+    - CSS ជាភាសាសម្រាប់រចនា webpage
+    
+    2). Model CSS
+
+        2.1). CSS Rule:
+            + អ្នករើស (selector) { declaration1; declaration2; ...; declarationN } |
+            <!-- --------------------------RULE-------------------------------------  | -->
+                - Above call CSS Rule ឬ ច្បាប់នៃការរចនា
+                - អ្នករើស (selector): រើសយកផ្នែករបស់ webpage មករចនា។
+            - មុខដង្កៀបគេហៅថា selector ក្នុងដង្កៀបគេហៅថា
+        
+        2.2) Declaration:
+            - Declaration: ការប្រកាសពីរចនាបទដែលបានប្រើប្រាស់ រួមមានលក្ខណៈនៃការរចនា (property) ព្រមទាំងតម្លៃរបស់លក្ខណៈនេះ (value) ។
+            - property:value
+        2.3). Internal Style:
+            - ជារបៀបសរសេរ CSS ជាមួយនិង HTML ដោយប្រើធាតុ Style នៅក្នុងធាតុ head ដែលអាចប្រើប្រាស់បាននៅក្នុង webpage តែ១ប៉ុណ្ណោះ ។
+        2.4). CSS selector:
+            2.4.1). Element (type) selector (ឈ្មោះធាតុ)៖ 
+                - រើសយកធាតុមួយប្រភេទដែលបានពញ្ជាក់ឈ្មោះ។
+            2.4.2). ID selector (គុណលក្ខណៈ ID និងសញ្ញា #): 
+                - រើសយកធាតុតែ១គត់ទៅតាម ID ដែលបានបញ្ជាក់។
+                
+                + ដើម្បីប្រើប្រាស់វា:
+                    - ថែមគុណលក្ខណៈអោយធាតុ
+                    - ក្នុង CSS សរសេរសញ្ញា #(hash sign) អាយឌី
+                * Example 
+                #active { color: aliceblue; background-color: blue; ...; }
+                ---1---   -------2--------  ---------3------------
+                - 1: selector
+                - 2: destination1
+                - 3: destination2
+                <a id="active"></a> 
+                   ------4----
+                - 4: attribute id
+            2.4.3). Class selector (គុណលក្ខណៈ class និងសញ្ញា . ):
+                - រើសធាតុទាំងឡាយដែលស្ថិតក្នុងថ្នាក់បានបញ្ជាក់។
+                    + ដើម្បីប្រើប្រាស់វា៖
+                        - ធ្វើចំណាត់ថ្នាក់ធាតុ class
+                        - ក្នុង CSS សរសេរសញ្ញា . ថ្នាក់
+
+> កាលណាគេសរសេរធាតុ ១ ២ដងហើយវាបង្ហាញពីលើចុះក្រោមនោះវាជា Block element 
+តែបើបង្ហាញពីឆ្វេងទៅស្តាំនោះវាជា Inline element
+
+------------------------------------------------
+
