@@ -1,4 +1,111 @@
-Date: 27/Sep/22 - Time: 7:30-9:00am 
+#### Date: 30/Sep/22 - Time: 7:30-9:00am 
+
+##### iii. Virtual Method (Method Overriding)
+    
+**Derived Class** អាចកែ code ឬ implementation របស់ method ដែលទទួលបានពី base class លុះត្រាតែ base class ផ្តល់សិទ្ធិអោយតាមរយៈ **Keyword virtual** ចំពោះ members ដែល derived class ត្រូវកែ និងនៅពេលដែល derived class កែត្រូវប្រើ Keyword override ចំពោះ members ដែលដែ។
+ 
+
+``` 
+using System;
+
+public class Person {
+
+	string e, n;
+	
+	public string Email{
+		get {return e;}
+		set {e = value;}
+	}
+		
+	public string Name{
+		get {return n;}
+		set {n = value;}
+	}
+		
+	public virtual string Display(){
+		return n & e; 
+	}
+}
+
+public class Student:Person{
+
+	string id;
+	
+	public string StudentID{
+		get {return id;}
+		set {id = value;}
+	}
+	
+	public override string Display(){
+		//return Email & " " & Name;
+		return base.Display();
+	}
+}
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Hello World");
+	}
+}
+```
+
+##### iv). Hiding Method
+    
+**Derived Class** អាចកែ code ឬ implementation របស់ method ដែលទទួលបានពី base class ដែលមិនចាំបាច់មានការអនុញ្ញាតពីបានដោយប្រើវិធី **hid method** ដែល derived class ទទួលបានហើយបង្កើត member ថ្មី ដោយរក្សាឈ្មោះនៅដដែលតាមរយៈ Keyword **new**។
+ 
+
+``` 
+using System;
+
+public class Person {
+
+	string e, n;
+	
+	public string Email{
+		get {return e;}
+		set {e = value;}
+	}
+		
+	public string Name{
+		get {return n;}
+		set {n = value;}
+	}
+		
+	public virtual string Display(){
+		return n & e; 
+	}
+}
+
+public class Student:Person{
+
+	string id;
+	
+	public string StudentID{
+		get {return id;}
+		set {id = value;}
+	}
+	
+	public new string Display(){
+		//return Email & " " & Name;
+		return base.Display();
+	}
+}
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Hello World");
+	}
+}
+```
+
+> ចំណាំ: មិនគួរប្រើចំពោះ method overloading ទេ.
+
+-----------------------------------------
+#### Date: 27/Sep/22 - Time: 7:30-9:00am 
 
     + Hidding Method:
 
@@ -32,7 +139,7 @@ Date: 27/Sep/22 - Time: 7:30-9:00am
 
 -----------------------------------------
 
-Date: 20/Sep/22 - Time: 7:30-9:00am 
+#### Date: 20/Sep/22 - Time: 7:30-9:00am 
 
     5). The Principle of OOP
 
@@ -85,7 +192,7 @@ Date: 20/Sep/22 - Time: 7:30-9:00am
                 }
                 
 --------------------------------------
-Date: 13/Sep/22 - Time: 7:30-9:00am 
+#### Date: 13/Sep/22 - Time: 7:30-9:00am 
 
     4). Static Class:
 
@@ -124,7 +231,7 @@ Date: 13/Sep/22 - Time: 7:30-9:00am
                 - អាចប្រើប្រាស់បានតែ public members តែប៉ុណ្ណោះ
 
 --------------------------------------
-Date: 2/Sep/22 - Time: 9:15-10:45am 
+#### Date: 2/Sep/22 - Time: 9:15-10:45am 
 
     Continue:
     2). Class members:
@@ -173,7 +280,7 @@ Date: 2/Sep/22 - Time: 9:15-10:45am
         - sealed member:
 
 --------------------------------------
-Date: 6/Sep/22 - Time: 7:30-9:00am 
+#### Date: 6/Sep/22 - Time: 7:30-9:00am 
 
     Continue:
     2). Class members:
@@ -211,7 +318,7 @@ Date: 6/Sep/22 - Time: 7:30-9:00am
             - sealed member:
 
 --------------------------------------
-Date: 2/Sep/22 - Time: 9:15-10:45am 
+#### Date: 2/Sep/22 - Time: 9:15-10:45am 
 
 Chapter 1: OOP (Object Oriented Programming)
 
@@ -268,7 +375,7 @@ Chapter 1: OOP (Object Oriented Programming)
 
 --------------------------------------
 
-Date: 30/Aug/22 - Time: 7:30-9:00am 
+#### Date: 30/Aug/22 - Time: 7:30-9:00am 
 
 Continue:
 Chapter 1: OOP (Object Oriented Programming)
@@ -332,7 +439,7 @@ Chapter 1: OOP (Object Oriented Programming)
 
 --------------------------------------------
 
-Date: 26/Aug/22 - Time: 9:15:10:45am 
+#### Date: 26/Aug/22 - Time: 9:15:10:45am 
 
 Chapter 1: OOP (Object Oriented Programming)
 
