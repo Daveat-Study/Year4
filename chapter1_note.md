@@ -1,5 +1,11 @@
 Date: 13/Sep/22 - Time: 7:30-9:00am 
 
+    Member access by object
+    ជា private memberរបស់object.
+
+--------------------------------------------
+Date: 13/Sep/22 - Time: 7:30-9:00am 
+
     4). Static Class:
 
     

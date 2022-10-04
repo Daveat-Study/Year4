@@ -1,55 +1,44 @@
+#### Date: 4/Oct/22 - Time: 7:30-9:00am
+
+##### iv. Abstract Class and Abstract members
+
+. Abstract class ជា class ដែលមិនអាចបង្កើត object មុនជាទូទៅគេប្រើវាជា base class តែប៉ុណ្ណោះ។
+
+##### <u>Syntax:</u>
+
+    abstract class ClassName{
+
+
+    }
+
+* Abstract members ជា member ដែលគ្មានកន្លែងសរសេរ code ទេ (គ្រាន់តែជាគំរូ) ហើយ derived class ត្រូវតែ implementation រៀងខ្លួន.
+
+* Abstract member ត្រូវតែជា member របស់ ___abstract class___.
+
+<b>* <u>Syntax:</u>
+
+    public 
+
+* Note: 
+    * Members have 3
+        - Instance
+        - Static
+        - Abstract
+
+    * Class
+        - non-static class
+        - Static class
+        - Abstract class
+
+    * Different between non-static and static class:
+        * The same:
+            - have the same member (field, method, property)
+        * Different:
+            - static class cannot be instance. 
+
+-----------------------------------------
+
 #### Date: 30/Sep/22 - Time: 7:30-9:00am 
-
-##### iii. Virtual Method (Method Overriding)
-    
-**Derived Class** អាចកែ code ឬ implementation របស់ method ដែលទទួលបានពី base class លុះត្រាតែ base class ផ្តល់សិទ្ធិអោយតាមរយៈ **Keyword virtual** ចំពោះ members ដែល derived class ត្រូវកែ និងនៅពេលដែល derived class កែត្រូវប្រើ Keyword override ចំពោះ members ដែលដែ។
- 
-
-``` 
-using System;
-
-public class Person {
-
-	string e, n;
-	
-	public string Email{
-		get {return e;}
-		set {e = value;}
-	}
-		
-	public string Name{
-		get {return n;}
-		set {n = value;}
-	}
-		
-	public virtual string Display(){
-		return n & e; 
-	}
-}
-
-public class Student:Person{
-
-	string id;
-	
-	public string StudentID{
-		get {return id;}
-		set {id = value;}
-	}
-	
-	public override string Display(){
-		//return Email & " " & Name;
-		return base.Display();
-	}
-}
-					
-public class Program
-{
-	public static void Main()
-	{
-		Console.WriteLine("Hello World");
-	}
-}
-```
 
 ##### iv). Hiding Method
     
@@ -103,6 +92,57 @@ public class Program
 ```
 
 > ចំណាំ: មិនគួរប្រើចំពោះ method overloading ទេ.
+
+##### iii. Virtual Method (Method Overriding)
+    
+**Derived Class** អាចកែ code ឬ implementation របស់ method ដែលទទួលបានពី base class លុះត្រាតែ base class ផ្តល់សិទ្ធិអោយតាមរយៈ **Keyword virtual** ចំពោះ members ដែល derived class ត្រូវកែ និងនៅពេលដែល derived class កែត្រូវប្រើ Keyword override ចំពោះ members ដែលដែ។
+ 
+
+``` 
+using System;
+
+public class Person {
+
+	string e, n;
+	
+	public string Email{
+		get {return e;}
+		set {e = value;}
+	}
+		
+	public string Name{
+		get {return n;}
+		set {n = value;}
+	}
+		
+	public virtual string Display(){
+		return n & e; 
+	}
+}
+
+public class Student:Person{
+
+	string id;
+	
+	public string StudentID{
+		get {return id;}
+		set {id = value;}
+	}
+	
+	public override string Display(){
+		//return Email & " " & Name;
+		return base.Display();
+	}
+}
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Hello World");
+	}
+}
+```
 
 -----------------------------------------
 #### Date: 27/Sep/22 - Time: 7:30-9:00am 
