@@ -1,6 +1,34 @@
-Date 13/Sep/22, Time: 9:15-10:45am
+##### Date 4/Oct/22, Time: 9:15-10:45am
 
-            + សេចក្តីចំពោះ Linux System
+#### <center> សេចក្តីចំពោះ Linux System</center>
+
++ Basic command:
+
+    - cd:
+    - ls: 
+    - &&:
+    - & : process run background
+    - pwd: display current directory path
+    - cp: copy
+
+    - rm: delete file or directory.
+    - mkdir: create directory.
+    - rmdir: delete empty directory.
+    - man: used to display the user manual of any command that we can run on the terminal.
+    - more: មើលពត៌មានម្តង១screen.
+    - cat: មើល view នៅក្នុង file.
+    - echo: used to display line of text/string that are passed as an argument 
+    - Grep: search with specific word
+    - Who: 
+    - who am I: បង្ហាញ user ដែល loggin ផ្ទាល់.
+    - exit: logout ឬផ្តាច់ user ពី system.
+    - ps: បង្ហាញ process ដែលកំពុងដំណើរការ.
+
+---------------------------------------------
+
+##### Date 13/Sep/22, Time: 9:15-10:45am
+
+####<center>+ សេចក្តីចំពោះ Linux System</center>
 
     + File System Structure:
 
@@ -25,9 +53,9 @@ Date 13/Sep/22, Time: 9:15-10:45am
         
 
 ---------------------------------------------
-Date 13/Sep/22, Time: 9:15-10:45am
+##### Date 13/Sep/22, Time: 9:15-10:45am
 
-            + សេចក្តីចំពោះ Linux System
+####<center>+ សេចក្តីចំពោះ Linux System</center>
 
     + តួអក្សរពិសេស:
         - \ Backslash = if use like "Royal Universy".
@@ -42,7 +70,7 @@ Date 13/Sep/22, Time: 9:15-10:45am
         - > (right-angle) = រកfile ដែលmatch បើមានoverride file else create new one.
         - >> = append
         - < =
-        - ; = ls ;date;cal;who
+        ##### - ; = ls ;date;cal;who
 
         [Student@Centos ~] $
          ___1__ 2__3___ 4  5
@@ -54,9 +82,9 @@ Date 13/Sep/22, Time: 9:15-10:45am
         5. User 
  
 ---------------------------------------------
-Date 7/Sep/22, Time: 9:15-10:45am
+##### Date 7/Sep/22, Time: 9:15-10:45am
 
-            + សេចក្តីចំពោះ Linux System
+####<center>+ សេចក្តីចំពោះ Linux System</center>
     
     +  GUI and Kernel:
         -
@@ -68,7 +96,7 @@ Date 7/Sep/22, Time: 9:15-10:45am
         - Linux have no registry
 
     + Domain
-        - Window have domain to validate user login.
+        ##### - Window have domain to validate user login.
         - Linux: nis.
 
     + Active Directory:
@@ -110,9 +138,9 @@ Date 7/Sep/22, Time: 9:15-10:45am
 
 ---------------------------------------------
 
-Date 6/Sep/22, Time: 9:15-10:45am
+##### Date 6/Sep/22, Time: 9:15-10:45am
 
-            + សេចក្តីចំពោះ Linux System
+####<center>+ សេចក្តីចំពោះ Linux System</center>
 
     + សង្ខេបពី Free Open Source Software
         - Open Source Software/ Free (OSS/FS  ដែលគេសរសេរកាត់ថា FLOSS ឬ FOSS មានការកើនឡើងពីសមត្ថភាពរបស់វាខ្ពស់).
@@ -190,6 +218,6 @@ Date 6/Sep/22, Time: 9:15-10:45am
 
 ---------------------------------------------
 
-Date 24/Aug/22
+##### Date 24/Aug/22
 
 + Task: Install server 2019 on virtual machine
