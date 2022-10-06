@@ -1,3 +1,21 @@
+#### Date 5/Oct/22 - 7:30:9am 
+
+    - list-style-type: យើងអាចជ្រើសរើសរូបរាង
+
+    - ដាក់រូបភាពរចនាបញ្ជី.
+
+    - No padding No margin by change list style position.
+
+    - exertanl style: 
+        - require separete
+        - put address
+
+    <link rel="stylesheet" href="../style/default.css">
+
+    - Before desing website you need to reset browser style.
+
+------------------------------------------------
+
 #### Date 29/Sep/22 - 9:15pm-10:45pm
 
     Default font size 16 pixel
