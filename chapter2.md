@@ -1,4 +1,4 @@
-22/Sep/22, 9:15-10:45am
+#### 22/Sep/22, 9:15-10:45am
 
 	Continuous:
 	+ Factors That Lead Firms to Seek Competitive Advantage:
@@ -23,7 +23,7 @@
 		- Website.
 
 -------------------------------------------------------
-8/Sep/22, 9:15-10:45am
+#### 8/Sep/22, 9:15-10:45am
 
 2. Inforamation Systems in Organization:
 
