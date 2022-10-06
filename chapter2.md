@@ -1,6 +1,69 @@
+#### 6/Oct/22, 7:30-9am
+
+#### 5. <u>Evolutionary Software Process Model. </u>
+
+##### a. <u>Incremental Model: </u>
+
+	Incremental Model កើតឡើងពីការបញ្ចូល model ២ ចូលគ្នា.
+
+##### b. <u>The Spiral Model (1988): </u>
+
+<b>Phase 1:</b> Customer communication: 
+* developer and customer communication to find customer's requirement.
+
+<b>Phase 2:</b> Planning
+
+* Define resources, time management, budget, other informations:
+
+	- Resource have 2:
+		- Human Resource
+		- Material Resource	
+
+<b>Phase 3:</b> Risk analysis
+* Analyze on Technical Risk and Manangment Risk.
+
+<b>Phase 4:</b> Engineering
+* Build one or more representation of the application.
+
+<b>Phase 5:</b> Construction and Release
+* Construct, test, install, and user support (Docs and training).
+
+<b>Phase 6:</b> Consumer Evaluation
+
++ Spin process from small to big:
+
+	- First: concept develpment projects
+	- Second: new product development project
+	- Third: Product Enhancement project
+	- Fourth: Product maintenance project
+
+<b> Advantages: </b>
+
+1. High amount of risk analysis
+2. Good for large and mission-critical projects.
+3. Software is produced early in the software life cycle.
+
+<b> Disadvantages: </b>
+
+1. Can be a costly model to use.
+2. Risk analysis requires highly specific expertise.
+3. Project's success is highly dependent on the reisk analysis phase.
+4. Doesn't work well for smaller projects.
+
+##### c. <u>The Winwin spiral Model (1994) </u>
+
+	which extends the spiral software development model by adding Theory W activities to the front of each cycle.
+
+	a groupware tool make it easier for distributed stakeholders to negotiate mutually satisfactory (win-win).
+
+	good match for multimedia apps and userful for other apps with similar characteristics.
+1. 
+
+--------------------------------------------
+
 #### 3/Oct/22, 9:15-10:45am
 
-##### 5. <u> Evolutionary Software Process Model. </u>
+#### 5. <u> Evolutionary Software Process Model. </u>
 
 Model that:
 > - ជំនាន់ទៅ១ជំនាន់កាន់តែធំជាងមុន
