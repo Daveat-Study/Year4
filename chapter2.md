@@ -1,3 +1,16 @@
+#### Date 7/Oct/22 - 7:30:9am 
+
+<b> <u> Block element អោយនៅចំកណ្តាល </u> </b>
+
+- កំណត់ទទឹអោយវា:
+
+    width:
+
+- កំណត់ margin left and margin right ដាក់តម្លៃ auto:
+
+
+
+------------------------------------------------
 #### Date 5/Oct/22 - 7:30:9am 
 
     - list-style-type: យើងអាចជ្រើសរើសរូបរាង
