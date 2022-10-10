@@ -1,3 +1,59 @@
+#### 10/Oct/22, 9:15-10:45am
+
+#### 7). <u> The V-process model </u>
+
+* 2.3. How to select the Right SDLC
+
+	- STEP 1: Learn the about SDLC models
+	- STEP 2: Accesss the needs of Stakeholders
+	- STEP 3: Define the criteria
+		- Is the SDLC suitable for the size of our team and their skills?
+		- Is the SDLC suitable for the selected technology we use for implementing the solution?
+		- Is the SDLC suitable for client and stkeholders concerns and priorities?
+		- Is the SDLC suitable for the type of projects we do?
+		- Is the SDLC suitable for our software engineering capability?
+		- Is the SDLC suitable for the project risk end quality insurance?
+	- STEP 4: Decide
+	- STEP 5: Optimize
+	
+
+#### 6). <u> The component-based Development Model. </u>
+
+* Different with spiral model:
+* Depend on component we have first:
+	- Identify candidate components
+	- Look up component in library.
+	- Extract component if available
+	- Build component if unavailable
+	- Put new components in library
+	- Construct nth iteration of system
+	
+
+<b>Continue </b>
+##### c. <u>The Winwin spiral Model (1994) </u>
+
+	- Winwin between Developer and Customer
+	- System or product up to date on time.
+	- Developer earn apropriate budget on time.
+
+* Activity defines in system:
+	- Identification of the system or subsystem's "stakeholders".
+	- Define "win condition" of stakeholder
+	- សម្រុះសម្រួល condition between developer and customer to fit win-win condition
+
+	1. Identify next-level sakeholders.
+	2. Identify sakeholders's win condition.
+	3.
+		a. Recondile win condition.
+		b. Establish next-level objectives, constrains and alternatives.
+
+	4. Evaluate prcoess and product alternatives and resolve risks.
+	5. Define next level of product and process, including partitions.
+	6. Validate product and process definitions.
+	7. Review and comment
+
+--------------------------------------------
+
 #### 6/Oct/22, 7:30-9am
 
 #### 5. <u>Evolutionary Software Process Model. </u>
