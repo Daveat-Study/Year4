@@ -1,3 +1,116 @@
+#### 10/Oct/22, 7:30-9:00am
+
+##### <u> Embedded System Example </u> 
+
+Mostly is a system that is a path of another system.
+
+- Air flow
+
+##### <u> Utility Programs </u>
+
+Utility Programs perform a variety of taskt typically related to system maintenance or problem.
+
+- Deleting data
+- Disk defragmentation
+- User accounts and security
+- Anit-virus software
+- Software updates
+- System cleanup
+- Encryption/decryption
+- Formatting
+
+##### <u> Middleware </u>
+
+is a software to manage software to end-user.
+
+<b> WITH MIDDLEWARE </b>
+
+- Store as queue until the other side becomes available.
+
+##### <u> Service-oriented Architecture </u>
+
+- SOA is composed of services.
+
+- Design focus on services.
+
+- SOA vs. OO:
+
+* Service-oriented  
+    - Services
+    - Operations
+
+* Objected-oriented
+    - Objects
+    - Methods
+
+- SOA define a way to create components for reusable via service interface.
+
+##### <u> Apps software </u>
+
+- a program that help solve computing problems.
+
+##### <u> Off-the-shelf Software </u>
+
+- is producted by software vendors to address needs that are common accross businesses, orgs, or individual.
+
+##### <u> Cloud Computing </u>
+
+- Store data on cloud (Cloud storage)
+
+* Software as a Service (SaaS):
+
+- Allow businesses to subscribe to Web-delivered
+
+##### <u> Application Service Provider </u>
+
+- Company that can provider software, support and computer hardware.
+
+##### <u> Personal Application Software </u>
+
+##### <u> Workgroup Application Software</u>
+
+- Mostly web-based
+
+##### <u> "Three Cs" Rules for Groupware </u>
+
+| Quantity      | Description |
+| ----------- | ----------- |
+| Convenient      | if it's too hard to use |
+| Content   | It must provide a constrant stream of rich        |
+| Coverage   | if it isn't conveniently accessible. |
+
+##### <u> Enterprise Application Software </u>
+
+* refer to apps software that org use to help business activities such as:
+
+    - accounting
+    - procurement
+    - project manangement
+
+* is a big software that serve for Enterprise.
+
+- Extend enterprise apps that they can run on smartphone.
+
+* Worldwide:
+
+    - Application 43%
+    - Custom build 24%
+    - Middleware 26%
+    - Operating Systems 7%
+
+##### <u> Specialized Apps Software </u>
+
+* Ex:
+    - Many school and colleges use learning management software.
+
+* All systems are developed by programming language.
+
+##### <u> Programming Language </u>
+
+- are sets of keywords, commands, symbols, rules for constucting statment.
+
+------------------------------------------------------
+
 #### 6/Oct/22, 9:15-10:45am
 
 ##### <u> Sphere of Influence </u>
