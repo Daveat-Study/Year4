@@ -1,6 +1,39 @@
-#### Date: 7/Oct/22 - Time: 9:00-10:45am
+#### Date: 11/Oct/22 - Time: 7:30-9:00am
 
+##### vii). Interface
 
+* Interfae ជា system type មុួយដែលបង្កើតដោយប្រើ keyword interface.
+* Interfae មិនអាចបង្កើតobjectបានទេ, គេប្រើវាក្រាន់តែជា base class (ដូច abstract class).
+* Members របស់ interface មិនមាន data (field) ទេ ហើយបង្កប់ (implicitely) public keyword រួចហើយ.
+* class មួយអាច implement ពី Interface បានច្រើនលើសពីមួយ (multiple interface).
+* Members ទាំងអស់របស់ interface សុទ្ធតែ abstract members (មិនមានកន្លែងសរសេរ code ទេ)
+
+##### vi). Sealed class & Sealed member
+
+* Sealed class ជា class ដែលបង្កើតដោយ keyword sealed.
+* Sealed class អាចinterit ពី class ផ្សេងទៀត, ប៉ុន្តែមិនមានclass ណាដែលអាច inheritពីវាទេ។.
+* Sealed class អាចបង្កើត object បានធម្មតា។
+
+##### <u>Syntax:</u>
+
+    sealed class className{
+        // members
+    }
+
+* Sealed member ជា member ដែលបង្កើតដោយ keyword sealed.
+* Sealed member អាចការពារមិនអោយderived class អាច override លើ virtual member បន្តទៀតបាន។
+
+##### <u>Example:</u>
+
+    class C:B{
+        public sealed override string MA(){
+
+        }
+    }
+
+    class D: C{
+        មិនអាច override MA() បានទៀតទេ ព្រោះ parent បានបិទដោយប្រើ sealed keyword
+    }
 
 -----------------------------------------
 
@@ -8,7 +41,7 @@
 
 ##### iv. Abstract Class and Abstract members
 
-. Abstract class ជា class ដែលមិនអាចបង្កើត object មុនជាទូទៅគេប្រើវាជា base class តែប៉ុណ្ណោះ។
+Abstract class ជា class ដែលមិនអាចបង្កើត object មុនជាទូទៅគេប្រើវាជា base class តែប៉ុណ្ណោះ។
 
 ##### <u>Syntax:</u>
 
