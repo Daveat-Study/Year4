@@ -1,3 +1,37 @@
+#### 13/Oct/22, 9:15-10:45am
+
+##### <u> The Evolution of Programming Language </u> 
+
+| Generation | Language | Approximate Developement Year |
+| ---------- | -------- |      ----------               |
+| First | Machine language | 1940s |
+| Second | Assembly language | 1950s |
+| Third | High-level | 1960s |
+| Forth | Query and Database language | 1970s |
+| Fifth | Natural and Intelligent | 1980s |
+
+Machine Language: binary
+
+
+##### <u> Artificial Intelligence Languages </u>
+
+##### <u> Compilers </u>
+
+##### <u> Software Issues and Trends </u>
+
+##### <u> Software Bug </u>
+
+To avoid bug:
+
+    - register all software and u will receive bug alerts, fixs, and patches.
+    - Check README
+    - Access the support area
+    - Install latest software updates.
+
+##### <u> Software Bug </u>
+
+----------------------------------------
+
 #### 10/Oct/22, 7:30-9:00am
 
 ##### <u> Embedded System Example </u> 
