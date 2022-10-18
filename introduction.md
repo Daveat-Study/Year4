@@ -2,6 +2,36 @@
 
 #### <center> សេចក្តីចំពោះ Linux System</center>
 
+- $ls -l
+
++ Permission "chmod":
+    - ++ : add permission
+    - -- : remove permission
+
++ Hard Links: Shortcut
+    - Soft link:
+    - Hard link: 
+
+    * Above link use command : ln, ln -s
+
++ Manage on Services:
+    - CMD: systemctl -t service
+
+    - To Stop:
+
+        - systemctl stop service_name
+
+    - Disable service automatically run:
+        - systemctl disable service_name
+
+    - 
+
+---------------------------------------------
+
+##### Date 4/Oct/22, Time: 9:15-10:45am
+
+#### <center> សេចក្តីចំពោះ Linux System</center>
+
 + Basic command:
 
     - cd:
