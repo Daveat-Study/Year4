@@ -1,3 +1,21 @@
+#### Date: 18/Oct/22 - Time: 7:30-9:00am
+
+#### C). Polymorphism
+
+Polymorphism
+
+- static ឬ Compile time:
+  - Method overloading
+- Dynamic ឬ Runtime: 
+  - Method overriding
+
+Last Chapter is UML
+
+Semester II: Design Pattern
+
+
+-----------------------------------------------
+
 #### Date: 11/Oct/22 - Time: 7:30-9:00am
 
 ##### vii). Interface
