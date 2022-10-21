@@ -1,3 +1,38 @@
+#### Date 21/Oct/22 - 7:30:9am 
+
+### <center> Chapter 3: Javascript </center>
+
+ជ្រើសធាតុមួយដែលមានអាយឌីសម្គាល់ ***feature***
+> document.getElementById("#feature")
+
+ជ្រើសរើសធាតុទាំងឡាយដែលាមានថ្នាក់សម្គាល់ next-image
+> document.getElementyClassName("next-imag")
+
+ជ្រើសរើសធាតុដែលគុណលក្ខណ៽ name មានតម្លៃ image-feature
+> document.getElementByName("image-feature")
+
+ជ្រើសធាតុ img ទំាអសស់
+> document.getElementByTagName("img")
+
+ជ្រើសធាតុមួយដូចដែលបានបញ្ជាក់ដោយ css selector
+> document.querySelectorAll("ul-li")
+
+ទាញយកតម្លៃគុណលក្ខណ៽នៃធាតុបានជ្រើសរើស
+> អថេរតំណាងធាតុ.getAttribute("ឈ្មោះគុណលក្ខណះ")
+
+ដាក់តម្លៃថ្មីអោយគុណលក្ខណះនៃធាតុបានជ្រើសរើស
+> អថេរតំណាងធាតុ.getAttribute("ឈ្មោះគុណលក្ខណះ", "តម្លៃថ្មី")
+
+TextContent:
+innerHtml: សរសេរខ្លឹមសារក៏បាន
+
+param ទី១:   ធាតុនៃArray
+param ទី2:   ធាតុនៃArray
+param ទី3:   ធាតុនៃArray
+
+
+----------------------------------------------
+
 #### Date 12/Oct/22 - 7:30:9am 
 
 ### <center> Chapter 3: Javascript </center>
