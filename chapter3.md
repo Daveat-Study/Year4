@@ -2,6 +2,15 @@
 
 ### <center> Chapter 3: Javascript </center>
 
+- Box-sizing
+- z-index and position
+
+--------------------------------------------------
+
+#### Date 12/Oct/22 - 7:30:9am 
+
+### <center> Chapter 3: Javascript </center>
+
 បង្កើតអឺរ៉េ (Array object)
 
 > var | let | const ឈ្មោះអឺរ៉េ = [ទិន្នន័យទី១ ទិន្នន័យទី២ ទិន្នន័យទី៣]។ល។
