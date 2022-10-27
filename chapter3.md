@@ -1,3 +1,60 @@
+#### 27/Oct/22, 7:30-9am
+
+### <center> <u> Chapter 3 </u> </center>
+### <center> <u> Software Project Management Metrics </u> </center>
+
+#### <u> 3.2 Types of Software Metrics </u>
+
+- Size metric is calculated for an entire project.
+- The size of a project may vary with respect to the changes.
+- Affects effort directly.
+
+#### <u> d). Product Metrics</u>
+
+- is measure the quality and conformance to requirement of the deliverables.
+- Two factors are meausered:
+    - Effectiveness
+
+* Forumla:
+    Effectiveness = (Quantity in % * Quality in %) / 100
+
+##### <u> 6. Testing Metrics</u>
+
+- use to measure the number of test cases that required to test SW.
+- Test case is to executed to test a particular module in SW.
+- There are separate test cases:
+    - Integration testing refers to the overall black box.
+    - In contrast, unit testing refers to individual modules of SW.
+
+| Metric(s) | Coding |
+|-----------| ------|
+|Testing| dsf |
+
+##### <u> 5. Defects metric: ( Error occure before to user )</u>
+
+- The number of defects defines the quality of project.
+- If defects large. the quality is inferior. In contrast the quality is superior.
+- Defects can occure during SDLC. 
+    1. Severe(កំហុសកំរិតធ្ងន់) defect: critically affect the functionality of a product.
+    2. Major defects(កំហុសកំរិតមធ្យម): logically affect the functionality of a product.
+    3. A minor defect(កំហុសកំរិតស្រាល): slide defect that mact as an irritant for uses but does not disturb the functionality of a product.
+
+##### <u> 4. Size metric: </u>
+
+##### <u> 3. Cost metric: </u>
+- Expense inccured on a project.
+- Spend on resource.
+  
+##### <u> c). Project Metrics </u>
+
+- The effort in performing an FP of work in an hour is called productivity.
+- To calculate productivity: determine the total of FP
+- To caculate accurate productivity: need two types of data:
+    - Actual effort in person hours
+    - Actual size of the project in FP.
+
+-----------------------------------------------
+
 #### 13/Oct/22, 7:30-9am
 
 ### <center> <u> Chapter 3 </u> </center>
