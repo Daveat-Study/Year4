@@ -18,6 +18,8 @@
 * Forumla:
     Effectiveness = (Quantity in % * Quality in %) / 100
 
+    Exam
+
 ##### <u> 6. Testing Metrics</u>
 
 - use to measure the number of test cases that required to test SW.
