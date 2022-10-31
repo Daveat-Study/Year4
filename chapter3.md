@@ -1,3 +1,46 @@
+#### 30/Oct/22, 7:30-9am
+
+### <center> <u> Chapter 3 </u> </center>
+### <center> <u> Software Project Management Metrics </u> </center>
+
+#### <u> 3.3 Direct Measures </u>
++ Direct Measures
+ 
+    - Cost and effort applied   |
+    - Lines of code             |
+    - Execution speed           |> are relative easy to collect
+    - Memory size               |
+    - Defects per unit time     |
+
++ 3.3 Direct Measures
+ 
+    - Quality              |
+    - Complexity           |
+    - Effeciency           |> are more difficult to assess
+    - Functionality        |
+    - Reliability          |
+    - Other "--abilities   |
+
+Continue
+#### <u> 3.2 Types of Software Metrics </u>
+#### <u> e). Product Metrics</u>
+
+- Maintenance metrics are a set of metrics.
+- They are measure:
+    - Cost
+    - Cost
+    - Productivity
+    - Defect.
+- Use maintenance metrics to track the number of required changes.
+
+- Maintenance have 4:
+    1. Corrective  -> Corrective
+    2. Adaptive   -|
+    3. Perfective  |-> Upgrade
+    4. Preventive _|
+
+--------------------------------------------------------------
+
 #### 27/Oct/22, 7:30-9am
 
 ### <center> <u> Chapter 3 </u> </center>
