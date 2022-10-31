@@ -1,5 +1,15 @@
 #### 24/Oct/22, 7:30 - 9:00am
 
+##### NoSQL Databases
+
+- Ability distribute multiple server.
+
+##### Data Lake
+
+------------------------------------
+
+#### 24/Oct/22, 7:30 - 9:00am
+
 ### <center><u> The Evolution of Programming Language </u> </center>
 
 ##### SQL Databases
