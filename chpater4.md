@@ -1,3 +1,38 @@
+#### 14/Nov/22, 9:00-10:45am
+
+## <center> <u> Chapter 4 </u> </center>
+### <center> <u> Measuring Effort for Software Project </u> </center>
+
+#### <u> Featuers of Function Points </u>
+
+1. External Inputs (EI)?
+2. External Outputs (EO)?
+3. External Inquiries (EQ)?
+4. Internal Logical Files (ILF)?
+
+    + External input: the process of element from outside to inside cross boundary by external device such as (sensor, barcode reader) and record into ILF(Internal Logic).
+
+5. External Interface Files (EIF)?
+
+#### <u> 4.2. FP Technique </u>
+
+- You can determine how much effort per FP is required in that particular phase.
+- Testing phase is planned for 20 FP of work.
+- The project managers
+- You can express the cost
+- At the end of project, you can find amount of defects.
+
++ FPs can estimate LOC depends
+
+    LOC = AVC * Number of FP.
+
+    - AVC is an avertage line of code in FP.
+
+    Example = 100FPs, Java
+    => LOC = 53 * 100
+
+-------------------------------------------
+
 #### 3/Nov/22, 7:30-9am
 
 ## <center> <u> Chapter 4 </u> </center>
