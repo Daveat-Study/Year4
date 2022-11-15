@@ -1,3 +1,12 @@
+#### Date: 15/Nov/22 - Time: 7:30-9:00am
+
+2). use cases diagram
+
+  - use cases diagram describe how external entities will use the system. External can be either a humans or other system and are referred to as an actor in UML terminology.
+  - This description emphaisizes the user view of the system and the interacton between the users and the system.
+
+-----------------------------------------------
+
 #### Date: 1/Nov/22 - Time: 7:30-9:00am
 
 + UML មាន Models ច្រើន:
