@@ -2,6 +2,20 @@
 
 #### <center> Chapter 3 </center>
 
++ AWK programming is a script lanaguage 
+    - Small size and fast
+    - syntax like C programming
+
+    + Option -F ប្រើដើម្បីអោយ awak ស្គាល់ symbol ( : )
+
++ ប្រៀបធៀប String
+
+--------------------------------------
+
+##### Date 11/Oct/22, Time: 9:15-10:45am
+
+#### <center> Chapter 3 </center>
+
 + Basic command:
 
     - firewall-cmd
