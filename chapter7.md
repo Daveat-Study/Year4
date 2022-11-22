@@ -1,3 +1,13 @@
+#### 21/Nov/22, 7:30 - 9:00am
+
+### <center> Uses of IoT Business </center> 57
+
+### <center> IoT Issues </center> 58
+
+### <center> IoT Issues </center> 59
+
+------------------------------------
+
 #### 14/Nov/22, 7:30 - 9:00am
 
 ### <center><u> The Internet Of Things </u> </center> Slide 31
