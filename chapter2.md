@@ -1,3 +1,58 @@
+#### Date: 22/Nov/22 - Time: 7:30-9:00am
+
+2). Class diagram
+
+Class diagram is a graphical notation used to construct and visualize object-oriented system and is a type of static structure diagram that describe the structure of the system by showing system's
++ classes & interfaces
++ Their attributes
++ Operations
++ And relatonships among the classes.
+
+* Class Notation
+
+| Class Name |  | ClassName |
+| Attributes |  | Attributes |
+| Operation |
+                | ClassName |
+
+- Attributes map onto the member's variables (data members)
+- Operations map onto the Class's methods.
+
+* Class Visibility
++: denotes public
+-: denotes private
+#: denotes protected
+
+underline denotes Static
+
+* Parameters & Return Type:
+- The return type of a method is shown after a colon at the end of the method signature.
+- The type of the method's parameters are shown after a colon following the parameter's name.
+
+++ Example
+
+- Class (regular)
+  + Name: Bold, enter
+- Abstract class
+  + Name: Italic, Center
+
+- interfact
+
+|  <<Interfac>>  |
+|  InterfactName |
+
+|       MyClass 1     |
+| - Attribute 1 : int |
+| + Attribute 2 : string |
+| # Attribute 3 : boolean |
+| + Attribute 4 : float |
+-------------------------
+| + Opt 1 ( p1: int ) : void |
+| + Opt 2 ( p1: string, p2: int ) : float |
+
+
+-----------------------------------------------
+
 #### Date: 15/Nov/22 - Time: 7:30-9:00am
 
 2). use cases diagram
