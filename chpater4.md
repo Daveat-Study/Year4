@@ -1,3 +1,48 @@
+#### 24/Nov/22, 7:30-9:00am
+
+## <center> <u> Chapter 4 </u> </center>
+### <center> <u> Measuring Effort for Software Project </u> </center>
+
+#### <u> 4.3 COCOMO Techniques </u>
+
+COCOMO is used software estimation models in the world.
+
+- Use to predicts the effort and schedule(Duration) for a software product devs.
+
+<u> + COCOMO has three levels: </u>
+
+- Basic
+- Intermediate
+- Advanced
+
+    <u> a) Basic:</u>
+- esitmate the effort and cost of a SW by using only LOC.
+- use when we need rough esitmate of effort.
+- Estimating the effort in basic COCOMO have three steps:
+  1. Estimating total delivered LOC
+  2. Determine effort constants based on type project
+  3. Substituting values LOC and effort constant in formula.
+
+  Formula:
+
+  - E1 = a1 * (KLOC)of a2. (Effort)
+  - D = a3 * (E1)a4. ()
+  - P = E1/D
+
+#### <u> FP-Based Estimation </u>
+
+=> Cost per FP = Labor rate/Productivity
+=> Total Cost of Project = Cost per FP * Total number of FPs
+=> Estimated Effort = Total Cost of Project/Labor rate
+=> Duration = Effort/People
+=> LOC = AVC * Total number of FPs
+
+#### <u> Using FP for initial Estimation </u>
+
+- To complte on FP, the project requires 10 hours.
+
+-------------------------------------------
+
 #### 14/Nov/22, 9:00-10:45am
 
 ## <center> <u> Chapter 4 </u> </center>
