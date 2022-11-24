@@ -1,3 +1,16 @@
+#### 21/Nov/22, 9:00-10:45am
+
+### <center> Legal Jurisdiction </center> 21
+
+
+### <center> Business-to-Business (B2B) </center> 57
+
+### <center> Business-to-Consumer (B2C) </center> 57
+
+### <center> Consumer-to-Consumer (C2C) </center> 57
+
+------------------------------------
+
 #### 21/Nov/22, 7:30 - 9:00am
 
 ### <center> Uses of IoT Business </center> 57
