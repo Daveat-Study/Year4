@@ -1,3 +1,50 @@
+#### Date: 25/Nov/22 - Time: 9:00-10:45am
+
+* Relationships
+
+1). | A |_________________| B | Association
+2). | C |_______________|>| D | Inheritance ( or Generalization) 
+3). | E |---------------|>| F | Realization
+4). | G |---------------->| H | Dependency
+5). | I |_______________<>| J | Aggregation
+6). | K |_______________<>| L | Composition
+
+1). Association
+ដែលមិនមែន inheritance
+ដែលមិនមែន Dependency
+ដែលមិនមែន Aggragation
+ខុសពី៣ហ្នឹង វាជា association
+ជា class ដែលមានទំនាក់ទំនងជាមួយ class ធម្មតា.
+
+2).     | Person | (class)
+
+             ^
+             |
+    |------------------|
+------------     ------------
+| student  |     | Lecherer |
+------------     ------------
+
+3). 
+
+4). Dependency
+វាអាស្រ័យគ្នា
+វាប្រែប្រួលតាមគ្នា
+
+5). Aggregation
+
+មាន១អត់១ក៏បាន មានទាំអពីរក៏បាន
+
+Class I is a part of class
+
+| Mouse |___________>| Computer |
+
+6). Composition
+
+ត្រូវតែមានទាំងពីរ
+
+-----------------------------------------------
+
 #### Date: 22/Nov/22 - Time: 7:30-9:00am
 
 2). Class diagram
@@ -49,7 +96,6 @@ underline denotes Static
 -------------------------
 | + Opt 1 ( p1: int ) : void |
 | + Opt 2 ( p1: string, p2: int ) : float |
-
 
 -----------------------------------------------
 
