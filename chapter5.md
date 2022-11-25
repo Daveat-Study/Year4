@@ -1,3 +1,25 @@
+#### Date 25/Nov/22 - 7:30:9am 
+
+### <center> Chapter V: Bootstrap </center>
+
+#### Form
+
+```
+form-lable សម្រាប់ថាតុ label
+form-control សម្រាប់ធាតុ Input ជា text box, password និង ធាតុ textarea
+form-select សម្រាប់ធាតុ select
+form-check សម្រាប់មេធាតុនៃធាតុ Input ជា checkbox ឬ radio
+form-check-input សម្រាប់ធាតុនៃ Input ជា checkbox ឬ radio
+form-check-label សម្រាប់ធាតុ label ជា ចំណងជើងនៃ checkbox ឬ radio
+form-check-inline គួបនឹង form-check ដើម្បីអោយ checkbox នឹង label នៅ បន្ទាត់តែមួយ
+form-check-reverse គួបនឹង form-check ដើម្បីត្រលប់ checkbox
+form-switch គួបគ្នានឹង form-check ដើម្បីដូរវាង checkbox ជា switch
+btn-check សម្រាប់ checkbox ឬ radio រីឯ btn btn-ពណ៌ ឬ btn btn-outline-ពណ៌ សម្រាប់ label របស់ checkbox ឬ radio;
+form-range សម្រាប់ធាតុ input ជា range
+```
+
+--------------------------------------
+
 #### Date 23/Nov/22 - 7:30:9am 
 
 ### <center> Chapter V: Bootstrap </center>
@@ -54,7 +76,7 @@ margin និង padding
 + Background color និង color
     primary ខៀវ, secondary ប្រផេះដិត, success មៃតង, danger ក្រហម, warning ទឹកក្រុច, info ផ្ទៃមេឃ, lgith ប្រផេះស្រាយ, dark ខ្មៅ, white ស-bg-ពណ ពណរបស់ផ្ទៃខាងក្រោយ text-ពណអក្សរ
 
---------------------------
+--------------------------------------
 
 #### Date 18/Nov/22 - 7:30:9am 
 
