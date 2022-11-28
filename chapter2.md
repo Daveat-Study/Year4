@@ -1,3 +1,29 @@
+#### 28/Oct/22, 9:15-10:45am
+
+#### b). <u> Intermediate COCOMO </u>
+
+Step of Intermediate COCOMO:
+
+1. estimate init devs effort by using SLOC formula:
+	E1 = a1 * ( KLOC )power(a2)
+2. determine the relevant cost driver attribute that affect project intesively.
+3. Calculate effort by multiplying the weighted cost driver attributes
+
+#### a). <u> Basic COCOMO </u>
+
+| Project Type  | 		a1	| a2 | a3 | a4 |
+---
+| Organic		| 2.4 (3.2)	| 1.05 | 2.5 | 0.38 |
+| Embedded		| 3.6 (2.8) | 1.20 | 2.5 | 0.32 |
+| Organic		| 	3.0		| 1.12 | 2.5 | 0.35 |
+
+Ex:  Estimate the effort of an apps (oragnic type) with 4 KLOC:
+
+E1 = 2.4 * pow(4, 1.05) = 2.4 * 4.28 ~ 10 Persons month
+D = 
+
+--------------------------------------------
+
 #### 10/Oct/22, 9:15-10:45am
 
 #### 7). <u> The V-process model </u>
