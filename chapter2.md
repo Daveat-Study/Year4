@@ -1,3 +1,31 @@
+#### Date: 29/Nov/22 - Time: 7:00-10:00am
+
+1. ប្រាប់ឈ្មោះ Relationships:
+
+  => Customer:
+     + Class Customer is associate with Order
+        - | Customer |________________| Order |
+
+  => Order:
+    1. Class Order is composition with OrderDetial
+      - | Order |___________<>| OrderDetails |
+
+    2. Class Order is associate with Payment:
+      - | Order |______________| Payment |
+
+  => Order Detail:
+
+    + Class Detail is associate with Item
+      - | OrderDetail |________________| Item |
+
+  => Payment:
+    + Class Payment Inherit from class (Cash, Check, CreditCard)
+      - | Payment |_____________|> | Cash |
+      - | Payment |_____________|> | Check |
+      - | Payment |_____________|> | CreditCard |
+
+-----------------------------------------------
+
 #### Date: 25/Nov/22 - Time: 9:00-10:45am
 
 * Relationships
