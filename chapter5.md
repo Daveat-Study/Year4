@@ -1,3 +1,24 @@
+#### Date 30/Nov/22 - 7:30:9am 
+
+### <center> Chapter V: Bootstrap </center>
+
+ទំហំរបស់ធាតុ:
+    - w-ទទឹងជាភាគរយ ដូចជា 25 50 75 100 ឬ auto
+    - h-បណ្តោយជាភាគរយ ដូចជា 25 50 75 100 ឬ auto
+
+User Interface (UI):
+    + Button ផ្តើម ផ្អាក ឬ បញ្ឈប់
+        - btn ជាថ្នាក់ចាំបាច់របស់ button
+        - btn-ពណ៌ ដាក់ពណ៌ផ្ទៃនៃbutton ដូចជា primary secondary ។ល។
+        - btn-outline-ពណ៌ buttonមានស៊ុមតែមើលមិនឃើញផ្ទៃ។
+        - btn-ទំហំ កំណត់ទំហំប៊ូតុងដូចជា lg ធំ ឬ smតូច។
+
+Alert បង្ហាញដំណឹងឬសារ:
+    alert ថ្នាក់ចាំបាច់របស់ bootstrap alert
+    alert-ពណ៌ ដាក់ពណ៌ផ្ទៃនៃ alert
+
+--------------------------------------
+
 #### Date 25/Nov/22 - 7:30:9am 
 
 ### <center> Chapter V: Bootstrap </center>
