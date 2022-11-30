@@ -1,3 +1,18 @@
+##### Date 29/Nov/22, Time: 9:15-10:45am
+
+#### <center> Chapter 3 </center>
+
+* Open SSH is open source SSH(Seucre SHELL) protocols
+
+* Why SSH?
+    - Security for computer.
+    - Password has encrypted.
+
+* We use:
+    - Private Key
+    - Public Key
+
+--------------------------------------
 ##### Date 11/Oct/22, Time: 9:15-10:45am
 
 #### <center> Chapter 3 </center>
