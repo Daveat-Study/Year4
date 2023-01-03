@@ -65,7 +65,7 @@
 
 Class I is a part of class
 
-| Mouse |___________>| Computer |
+| Mouse |___________<>| Computer |
 
 6). Composition
 
