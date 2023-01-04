@@ -1,0 +1,1 @@
+Virtual host allow us store website out of drive c and work on wamp as normal.
