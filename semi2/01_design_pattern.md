@@ -1,3 +1,39 @@
+#### 9/Jan/2023, 7:30-9:00am
+
+## <center> <u> Design Patterns </u> </center>
+
+#### <u> Bridge Pattern </u>
+
+ជាវិធីធ្វើអោយប្រើជារួមបាន
+
+Abstraction: ជាការហៅ function តាមរយៈ object
+Ex: A obj = new A();
+    string t = obj.MA(100);
+               --Abstraction--
+
+Implementation: ជាការអនុវត្តឬកូដនៅក្នុង function 
+Ex: Class A {
+
+    public string MA(int x){
+        // Implementation;
+    }
+}
+
+Design:
+
+| Client |      | Abstraction |      | <<Interface>> IBridge |
+                | + operation |      | + opt Imp() |
+                                             ^
+        _____________________________________|
+        |                       |
+| ImplementationA |     | ImplementationB |
+| + Opt Imp()     |     | + Opt Imp()     |
+
+        Car                     Bike
+    Assembling              Assembling
+
+---------------------------------------
+
 #### 3/Jan/2023, 7:30-9:00am
 
 ## <center> <u> Design Patterns </u> </center>

@@ -1,4 +1,4 @@
-OOAD & Prog
+OOAD & Prog (Object-Oriented Analysis & Design & Program)
 
 Mr. Svoettty Bunna => LAB
 
