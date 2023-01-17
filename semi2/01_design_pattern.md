@@ -4,6 +4,16 @@
 
 #### <u> Bridge Pattern </u>
 
+* Design 
+
+---------------------------------------
+
+#### 9/Jan/2023, 7:30-9:00am
+
+## <center> <u> Design Patterns </u> </center>
+
+#### <u> Bridge Pattern </u>
+
 ជាវិធីធ្វើអោយប្រើជារួមបាន
 
 Abstraction: ជាការហៅ function តាមរយៈ object
