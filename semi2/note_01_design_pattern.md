@@ -14,3 +14,10 @@ Pattern និមួយៗគេប្រាប់:
     - Design
     - Implementation
     - Use
+
+I). Strcutural Patterns
+
+1). Decorator
+2). Bridge
+3). Composite
+4). Adapter

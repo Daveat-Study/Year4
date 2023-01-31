@@ -1,3 +1,18 @@
+#### 31/Jan/2023, 7:30-9:00am
+
+## <center> <u> Design Patterns </u> </center>
+
+#### <u> II) Creational Patterns (ការបង្កើត Object) </u>
+##### <u> 5) The Prototype Pattern </u>
+
+=> Clone ជាការ copy data ដែលមានស្រាប់នៅក្នុង memory ហើយ (លឿន)
+=> Copy ជាការ copy data.
+
+* Shallow Copy: ជារបៀប copy data ហើយ object នឹង original refer to the member, change one will affect other.
+* Deep Copy: ជារបៀប copy data ដាច់ដោយឡែក, change one will not affect other.
+
+---------------------------------------
+
 #### 9/Jan/2023, 7:30-9:00am
 
 ## <center> <u> Design Patterns </u> </center>
