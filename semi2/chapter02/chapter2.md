@@ -1,4 +1,25 @@
-9/Feb/23 7:30am
+13/Feb/23 9:00am
+
+2). Categorizing IT projects
+
+    * One categorization is whether the project addresses:
+        - Problems: undesirable situation
+        - Opportunities: chances to improve the org.
+        - Directive: new requirement imposed by management, goverment, some external influence.
+
+3). Financial Analysis of Projects
+
+(1). Net Present Value (NPV) Analysis
+រកនូវផលចំណេញ
+
+    * Formula:
+              n
+        NPV = Σ A * DF
+              i=1 
+
+              
+        - r: Discount rate
+        - A = amount
 
 ------------------------------------
 
