@@ -1,3 +1,21 @@
+#### 14/Feb/2023, 7:30-9:00am
+
+## <center> <u> Design Patterns </u> </center>
+
+#### <u> II) Creational Patterns (ការបង្កើត Object) </u>
+##### <u> 8) The Builder Pattern </u>
+
+---------------------------------------
+
+#### 14/Feb/2023, 7:30-9:00am
+
+## <center> <u> Design Patterns </u> </center>
+
+#### <u> II) Creational Patterns (ការបង្កើត Object) </u>
+##### <u> 8) Singleton Patterns </u>
+
+---------------------------------------
+
 #### 31/Jan/2023, 7:30-9:00am
 
 ## <center> <u> Design Patterns </u> </center>
