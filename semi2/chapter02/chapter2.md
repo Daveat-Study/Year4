@@ -1,3 +1,33 @@
+16/Feb/23 9:00am
+
+* Return  on Investment:
+
+    - ROI is calculated by (costs - benefit) / costs
+    - | | ប្រើតម្លៃដាច់ខាតព្រោះwanna force value inside become to positive
+
+    Formula with Discount:
+        - ROI: (total discounted benefits - |total discount costs|) / |total discounted costs|
+        
+* Where:
+    - Discounted benefits for each year = Discount factor * Benefit for each year.
+    - Discounted costs for each year = Discount factor * Cost for each year.
+    - Discount factor = 1/(1+r)t
+
+    Another calculating of NPV
+
+    |------------------------------------------------------------|
+    | NPV = total discounted benefits - |total discounted costs| |
+    |------------------------------------------------------------|
+
+* NPV Calculations:
+    - Determine estimated costs and benefits
+    - Determine the discount rate
+    - Calculate the NPV
+
+    Formula:
+
+------------------------------------
+
 13/Feb/23 9:00am
 
 2). Categorizing IT projects
