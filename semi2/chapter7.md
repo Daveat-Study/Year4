@@ -1,9 +1,21 @@
+25/Jan/23 7:30-9:00
+- ក្នុងsolution explorer ចុច​មកស្តាំលើ port កសារviewហើយជ្រើសយក Add បន្ទាប់មកពាក្យបញ្ចា New folder ដាក់ឈ្មោះអោយដូចទៅនឹងឈ្មោះ Controller
+- ក្នុង Add New Item ជ្រើសយក Razor View - Empty នឹងដាក់ឈ្មោះសម្គាល់ View តាមសេចក្តីត្រូវការជាក់ស្តែងព្រមទាំងចុច Btn​ add ជាការស្រេច
+
 17/Jan/23 7:30-9:00
 
 ដើម្បីបង្កើត MVC.net ក្នុង VS អ្នកអាចជ្រើសយក Project Templete ដូចខាងក្រោម:
     - Web Application (Model-View-Controller)
     - ASP.NET Core Web App (Model-View-Controller)
     - ASP.NET Core Web App (Model-View-Controller)
+
+* Multi line
+@*  *@
+
+* Single Line
+@ {
+
+}
 
 Developing Controllers
 
