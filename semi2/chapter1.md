@@ -1,5 +1,7 @@
 Chapter 1: XML
 
+    is a markup langage and file format for storing, transmitting of data.
+
     * XML Family:
         - XSLT convert XML to HTML or other document type.
         - XPath defines a non-XML syntax for referring to specific parts of an XML file
