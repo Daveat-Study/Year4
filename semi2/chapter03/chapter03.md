@@ -1,3 +1,16 @@
+#### 23/Feb/22, 9:15-10:45am
+
+#### c). <u> Project Charter </u>
+
+* The key parts of the project charter are:
+    1. The project's title and date of authorization.
+    2. The project manager's name and contact info.
+    3. A brief scope statement for the project.
+    4. A summary of the planned approach for mananging the project.
+    5. A roles and responsibilities matrix.
+    6. A sign-off section for signature of key project stakeholders.
+    7. A comment section in which stakeholder
+
 20/Feb/23 9:00am
 
 * payback Period:
@@ -6,9 +19,9 @@
         * Formula:
           - To calculate
 
-          ---------------------------------------------------------------
-          | Payback Period = initial Investment / Cash inflow per period|
-          ---------------------------------------------------------------
+          ----------------------------------------------------------------
+          | Payback Period = initial Investment / Cash inflow per period |
+          ----------------------------------------------------------------
 
         Example: Invest 100$ in 4 Years period
             - Year1: 40
