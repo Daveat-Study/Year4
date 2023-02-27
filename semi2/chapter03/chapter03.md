@@ -1,3 +1,89 @@
+#### 27/Feb/22, 9:15-10:45am
+
+#### 3.3). <u> Scope Planning and the Scope Statement </u>
+
+* A scope statement:
+
+    - A project justification
+    - A brief dscription
+    - A summary of all project deliverables
+
+#### 3.4). <u> Scope Definition and the Work Breakdown Structure </u>
+
+    - After completing scope planning, the next step is to further define the work by breaking it into manageable pieces.
+
+    * Good scope definition:
+        - Help improve the accuracy of time, cost, resource estimate.
+        - Defines a baseline for performance measurement and project control.
+        - aids in communicating clear work responsibilities.
+    
+    a). The work Breakdown structure:
+        - A work breakdown structure (WBS)
+        - It is a foundation document in project management
+
+    b). Sample Intranet WS Organized by Product.
+        - 
+
+    c).
+
+    d). Intranet WBS in Tabular Form
+        - Form that contain Table in book.
+
+        1.0. Concept:
+            1.1 Evaluate current systems.
+            1.2 Define Requirements
+                1.2.1 Define user requirements
+                1.2.2 Define content requirements
+                1.2.3 Define system requirements
+                1.2.4 Define server owner requirements
+            1.3 Define specific functionality
+            1.4 Define risk and risk management approach|
+            1.5 Develop project plan
+        1.6 Brief Web development team
+        2.0 Web Site Design
+        3.0 Web Site Development 4.0 Roll Out
+        5.0 Support
+
+    e). Intranet WBS and Gantt Chart In MS Project.
+        - long or short: refer to time.
+        - Dependency.
+
+    f). Intranet WBS and Gantt Chart Organized by Project Management Process Groups.
+        1. assignining pro ma
+        2. 
+        3.
+        4.
+
+    g). Approaches to Developing WBSs:
+    * 4 Approaches:
+        1. Using guideline: some orgs, like DoD (Department of Defence)
+        2. The analogy approach:
+        3. The top-down approach:
+
+    h). Basic Principles for Creating WBSs:
+        1. A unit of work should appear at only one place in the WBS.
+        2. The work content of a WBS item is the sum of the WBS
+        3. A WBS item is the responsibility of only one individual, even though many people may be working on it.
+        4. The WBS must be consisten with the way in which work is actually going to be performed; it should server the project eam first and other purposes only if practical.
+        5. 
+        6.
+
+#### 3.5). <u> Scope Verification and Scope Change COntrol </u>
+
+    - It is very difficult to create a good scope statement and WBS for a project.
+
+    * Using Software to Assis in Project Scope Management
+
+
+Question:
+1) What is project scope manangment?
+2) Project initiation:
+3) 
+
+    Consistentcy: សំកតិភាព
+
+------------------------------------
+
 #### 23/Feb/22, 9:15-10:45am
 
 #### c). <u> Project Charter </u>
@@ -10,6 +96,8 @@
     5. A roles and responsibilities matrix.
     6. A sign-off section for signature of key project stakeholders.
     7. A comment section in which stakeholder
+
+------------------------------------
 
 20/Feb/23 9:00am
 
