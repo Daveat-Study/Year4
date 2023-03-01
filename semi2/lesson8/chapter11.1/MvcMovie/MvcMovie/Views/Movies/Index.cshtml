@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MvcMovie.Models.Movie>
+
+@{
+    ViewData["Title"] = "បញ្ជីខ្សែភាពយន្ត";
+    Layout = "~/Views/Shared/_M3.cshtml"; // view រួម
+}
+
+<h1>បញ្ជីខ្សែភាពយន្ត</h1>
+
+<p>
+    <a asp-action="Create">ថែមភាពយន្តថ្មី</a>
+</p>
+
+<form asp-controller="Movies" asp-action="index">
+    <p>
+        Title:<input type="text" name="search"/> <input type="submit" value="ស្វែងរក"/>
+    </p>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ចំណងជើង</th>
+            <!-- 
+                DisplayName ជា method របស់ HTML helper
+                ដែលប្រាប់មេម៉ាស៊ីនឱ្យសរសេរអត្ថបទ។
+            -->
+            <th>កាលបរិច្ឆេទចេញ</th>
+            <th>ប្រភេទ</th>
+            <th>តម្លៃ</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+<!-- 
+        Model តំណាងឱ្យ ព័ត៌មានក្នុង database 
+        ដែល view បានទទួលពី   controller។
+-->
+@foreach (var movie in Model) {
+        <tr>
+            <td>@Html.DisplayFor(m => movie.Title)</td>
+            <td>@Html.DisplayFor(m => movie.ReleaseDate)</td>
+            <td>@Html.DisplayFor(m => movie.Genre)</td>
+            <td>@Html.DisplayFor(m => movie.Price)
+            </td><td>
+                <a asp-action="Edit" asp-route-id="@movie.Id">កែ</a> |
+                <a asp-action="Details" asp-route-id="@movie.Id">លម្អិត</a> |
+                <a asp-action="Delete" asp-route-id="@movie.Id">លុប</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
