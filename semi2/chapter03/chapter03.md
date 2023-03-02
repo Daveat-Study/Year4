@@ -1,3 +1,12 @@
+### 2/Mar/23, 7:30-9:00am
+
+### <center> <u> Chapter 3 </u> </center>
+### <u> The Organization and Process </u>
+
+### <h3> 2.2 The Process </h3>
+
+------------------------------------
+
 #### 27/Feb/22, 9:15-10:45am
 
 #### 3.3). <u> Scope Planning and the Scope Statement </u>
@@ -56,16 +65,16 @@
 
     g). Approaches to Developing WBSs:
     * 4 Approaches:
-        1. Using guideline: some orgs, like DoD (Department of Defence)
-        2. The analogy approach:
-        3. The top-down approach:
+        3. Using guideline: some orgs, like DoD (Department of Defence)
+        4. The analogy approach:
+        5. The top-down approach:
 
     h). Basic Principles for Creating WBSs:
-        1. A unit of work should appear at only one place in the WBS.
-        2. The work content of a WBS item is the sum of the WBS
-        3. A WBS item is the responsibility of only one individual, even though many people may be working on it.
-        4. The WBS must be consisten with the way in which work is actually going to be performed; it should server the project eam first and other purposes only if practical.
-        5. 
+        6. A unit of work should appear at only one place in the WBS.
+        7. The work content of a WBS item is the sum of the WBS
+        8. A WBS item is the responsibility of only one individual, even though many people may be working on it.
+        9. The WBS must be consisten with the way in which work is actually going to be performed; it should server the project eam first and other purposes only if practical.
+        10. 
         6.
 
 #### 3.5). <u> Scope Verification and Scope Change COntrol </u>
@@ -184,4 +193,19 @@ Question:
         - A = amount
 
 ------------------------------------
+
+* Project Scope management: 
+
+    - is refer to all work involved in creating the products.
+    * include the processes involve define and controlling.
+        1. Initiation
+        2. Scope planning
+        3. Scope definition:
+        4. Scope verifictiona
+        5. Scope change control
+
+#### 3.2). <u> Project initiation: strategic planning and project selection </u>
+
+
+
 

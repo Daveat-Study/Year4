@@ -1,4 +1,26 @@
-2/Feb/23 7:30am
+### 2/Feb/23, 9:15-10:45am
+
+### <center> <u> Chapter 2 </u> </center>
+### <u> The Organization and Process </u>
+
+### <h3> 2.2 The Process </h3>
+
+* Phases of the Project Life Cycle
+
+Concept 
+Developerm
+Implementation
+Close-Out
+
+* Project Phases and the Project Life Cycle
+
+    - A project life cycle
+    - Project phases vary by project or industry
+
+        - concept
+        - development
+        - implementation
+        - support or close-out
 
 * Project Management Process Groups
 
@@ -17,12 +39,38 @@
 
     - Start to Start អាចមុនក្រោយគ្នាបន្តិចបន្តួចមិនអាចធ្វើព្រមគ្នាទេ
 
-* Phases of the Project Life Cycle
+1). Project initiation or Initiating Processes
 
-Concept 
-Developerm
-Implementation
-Close-Out
+    * Key outputs include:
+        - Assigning the project manager
+        - Identifying key stakeholders
+        - Completing a business case
+        - Completing a project charter and getting signatures on it.
+        - 
+
+2). Project Planning or Planning Processes
+
+    * Key outputs include:
+        - A team contract
+        - A scope statement
+        - A work breakdown structure (WBS)
+        - A project schedule, in the form of a Gantt chart
+
+3). Project Executing or Executing Processes
+    - take most ime and resource to perform project.
+    - import output is:
+        work results
+    - Project managers must use leadership skill
+
+4). Project Controlling or Controling Processes
+    - Controlling involves measureing progress
+    - Controlling affects
+    - Status and progress
+
+5). Project Closing or Closing Processes
+    - Invovle gaining stakeholder and customer acceptance final product.
+    - closed out to learn from the past
+    - Project archives and lesson learned
 
 ------------------------------------
 
@@ -45,3 +93,26 @@ Fifteen Project Management Job Functions
 13). Secure needed resources.
 14). Manange the change control process.
 15). Report project status.
+
+------------------------------------
+
+### 23/Jan/23, 9:15-10:45am
+
+### <center> <u> Chapter 2 </u> </center>
+### <u> The Organization and Process </u>
+
+### <h3> 2.1 The Organization </h3>
+
+* Understanding Organizations
+
+    - Structural frame
+    - Human resource frame
+    - Political frame
+    - Symbolic frame
+
+* Many Org Focus On The Structureal Frame
+
+    3 Basic organizational structures
+      - Functional
+      - Project
+      - Matrix
