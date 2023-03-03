@@ -12,7 +12,6 @@
             ?>
         </pre>
 
-        <!--  -->
         <?=phpinfo()?>
     </body>
 </html>
