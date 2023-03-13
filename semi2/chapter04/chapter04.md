@@ -1,4 +1,4 @@
-### 9/Mar/23, 7:30-9:00am
+### 13/Mar/23, 9:00-10:45am
 
 ### <center> <u> Chapter 4 </u> </center>
 ### <u> Project Time Management </u>
@@ -6,12 +6,39 @@
 ### <h3> 4.1. Project Time Management Processes </h3>
 
     Process (3)
-    4.4. Activity Duration Estimating
-        - After define activities, determining, sequence, the next step in time manangement is duration estimating.
-        - Duration: the amt of time workded on activity plus elapsed time.
-        + Effort: 
-            - the number of workdays or work hours required to complete a task.
-            - Not equal duration.
+    4.5. Schedule Development
+        - Schedule development uses results of the other time management process to determine the start and end.
+        - Ultimate goal to create a realistic project schedule.
+        + Important tools and techniques: 
+            - Gantt charts, 
+            - PERT (Program Evaluation and Review Technqiue) analysis, 
+            - critical path analysis, 
+            - and critical chain scheduling.
+
+        a) Creating Tasks (uses MS Project)
+            - General tasks: are the usual tasks that are independent and have no special characteristics related to their duration or time.
+                Ex: analysis: A, B
+            - Milestone tasks: are the second type of task you can create using MS Project.
+                Ex: Analysis Complete.
+            - Recurring tasks: occur repeatedly at regular intervals.
+                Ex: a weekly project meeting with all the team members is a recurring.
+
+        b) Gantt Charts:
+            - Charts created by Mr Henry Gantt and provide a standard format for displaying project schedule
+            + Symbols include:
+                - A black dialog: milestones or significant events on a project with zero duration
+                - Thick black bars: summary tasks
+                - Lighter horizontal bars: tasks
+                
+ 
+---------------------------------------------
+
+### 9/Mar/23, 7:30-9:00am
+
+### <center> <u> Chapter 4 </u> </center>
+### <u> Project Time Management </u>
+
+### <h3> 4.1. Project Time Management Processes </h3>
 
     Process (2)
     4.3. Activity Sequencing
@@ -42,6 +69,14 @@
             FF: - Quality control effort cannot finish before production finishes.
 
             SF: - The start of the new shift or the security guard signal the finish shift of the current security guard. if the next shift security guard didn't turn up (arrive), the first shift security guard has to continue his duty.
+
+    Process (3)
+    4.4. Activity Duration Estimating
+        - After define activities, determining, sequence, the next step in time manangement is duration estimating.
+        - Duration: the amt of time workded on activity plus elapsed time.
+        + Effort: 
+            - the number of workdays or work hours required to complete a task.
+            - Not equal duration.
 
 ----------------------------------------------------------
 
