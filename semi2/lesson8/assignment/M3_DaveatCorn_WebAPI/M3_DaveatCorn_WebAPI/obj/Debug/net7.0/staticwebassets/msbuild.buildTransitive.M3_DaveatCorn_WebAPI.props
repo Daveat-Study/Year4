@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\M3_DaveatCorn_WebAPI.props" />
+</Project>
