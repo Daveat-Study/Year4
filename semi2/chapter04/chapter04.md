@@ -1,3 +1,49 @@
+### 27/Mar/23, 9:00-10:45am
+
+### <center> <u> Chapter 4 </u> </center>
+### <u> Project Time Management </u>
+
+### <h3> 4.1. Project Time Management Processes </h3>
+
+    * Techniques for shortening a Project Schedule.
+
+        - Shorten duration of critical by adding more resources or changing their scope.
+        + Crashing tasks by obtaining
+            - advantage: can shorten the time it takes to finish a project.
+            - Disadvantage: it often increases total project costs.
+        + Fast tracking tasks
+            - Advantage: like crashing.
+            - It can end up lengthening the project schedule.
+
+    d). Critical Chain Scheduling.
+        - Critical chain scheduling is a method of scheduling that takes limited resources
+
+    e). Program Evaluatioin and Reviw Technique (PERT)
+
+        - is a network analysis technique used to estimate project duration where there is high degree of uncertainty about the individual activity duration estimates.
+        - uses probabilistic times estimates based on using optimistic, most likely, pessimistic of activity durations.
+        - 
+
+PERT Formula
+    គណនាproject មិនច្បាស់លាស់ឬមិនធ្លាប់ធ្វើពីមុនគណនាតាមរូបមន្តដូចខាងក្រោម:
+    * PERT weighted average formula:
+        - Te = To + 4Tm + Tp / 6
+
+### <h3> 4.6. Controlling Changes to the Project Schedule </h3>
+    
+    - Perform reality checks on schedules.
+    - Allow for contigencies
+    - Don't plan for everyone to work at 100% capacity all the time.
+    - Hold progress meetings with stakeholders and be clear and honest in communicating schedule issues.
+    * Working with People issues:
+    - String leadership helps projects succeed more than good PERT charts
+    + Project managers should use
+        - empower
+    
+### <h3> Using Sotfware to Assist in Time management </h3>
+
+---------------------------------------------
+
 ### 13/Mar/23, 9:00-10:45am
 
 ### <center> <u> Chapter 4 </u> </center>
@@ -28,8 +74,7 @@
             + Symbols include:
                 - A black dialog: milestones or significant events on a project with zero duration
                 - Thick black bars: summary tasks
-                - Lighter horizontal bars: tasks
-                
+                - Lighter horizontal bars: tasks               
  
 ---------------------------------------------
 
