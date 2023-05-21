@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T08:41:13.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6P6iB--ZTcjc-1pLGucA" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T09:15:40.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZpLv_UNz1pXIEoPeuBAQ" version="21.3.2" type="github">
   <diagram name="Page-1" id="gg0ydMQr5O47PDTg03uV">
-    <mxGraphModel dx="1356" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
         <mxCell id="Nd8JsijC-LNSdBoc4FC4-64" value="18" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="375" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nd8JsijC-LNSdBoc4FC4-65" value="18" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-65" value="20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1190" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nd8JsijC-LNSdBoc4FC4-66" value="18" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -257,6 +257,81 @@
         </mxCell>
         <mxCell id="Nd8JsijC-LNSdBoc4FC4-94" value="0" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-98" value="Start date: 2/1/23" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-99" value="Finish: 22/2/23" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-100" value="Find Free slack:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1050.757548014323" as="sourcePoint" />
+            <mxPoint x="280" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-104" value="FS (A): ES(B) 5 - EF(A) 5 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="670" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-105" value="TTS (A): LS(A) 0 - ES(A) 0 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="713" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-106" value="FS (B): ES(E) 8 - EF(B) 8 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="800" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-108" value="TTS (B): LS(B) 12 - ES(B) 5 = 7 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="850" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-109" value="FS (C): ES(F) 12 - EF(C) 12 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="930" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-110" value="TTS (C): LS(C) 5 - ES(C) 5 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="980" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-111" value="FS (D): ES(H) 11 - EF(D) 11 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="840" y="670" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-112" value="TTS (D): LS(D) 13 - ES(D) 5 = 8 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="840" y="720" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-113" value="FS (E): ES(I) 20 - EF(E) 13 = 7 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="841" y="800" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-114" value="TTS (E): LS(D) 15 - ES(D) 8 = 7 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="841" y="850" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-115" value="FS (F): ES(I) 20 - EF(F) 20 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="841" y="930" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-116" value="TTS (F): LS(F) 12 - ES(F) 12 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="841" y="980" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-117" value="FS (G): ES(J) 18 - EF(G) 15 = 3 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="670" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-118" value="TTS (G): LS(G) 23 - ES(G) 12 = 11 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="720" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-119" value="FS (H): ES(J) 18 - EF(G) 18 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="810" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-120" value="TTS (H): LS(H) 19 - ES(H) 11 = 8 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="860" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-121" value="FS (I): ES(K) 28 - EF(I) 28 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="940" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-122" value="TTS (I): LS(I) 20 - ES(I) 20 = 0 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="990" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-123" value="FS (J): ES(K) 28 - EF(I) 20 = 8 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="800" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd8JsijC-LNSdBoc4FC4-124" value="TTS (J): LS(J) 26 - ES(J) 18 = 8 Day" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="850" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
